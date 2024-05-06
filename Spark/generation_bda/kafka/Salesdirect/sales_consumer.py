@@ -26,9 +26,6 @@ def insertar_sales_stream(fecha, store_id, product_id, quantity_sold, revenue):
         print("Error al conectar a la base de datos:", e)
         
         
-        
-        
-        
 
 # Set up Kafka consumer
 consumer = KafkaConsumer(

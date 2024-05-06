@@ -1,7 +1,37 @@
 from pyspark.sql import SparkSession
 import psycopg2
 from pyspark.sql import functions as F
-import sesionspark
+
+
+# Crear una tabla para responder a las preguntas de ANALISIS-GEOGRAFICO en WAREHOSE
+def createTable_geografico():
+    try:
+        #connection = psycopg2.connect( host="my_postgres_service", port="5432", database="warehouse_retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
+        connection = psycopg2.connect( host="localhost", port="5432", database="retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
+    
+        cursor = connection.cursor()
+        create_table_query = """
+            CREATE TABLE IF NOT EXISTS geografico (
+                geografico_ID SERIAL PRIMARY KEY,
+                store_id INTEGER,
+                store_name VARCHAR (100),
+                ubicacion VARCHAR (100),
+                revenue DECIMAL(10,2)
+            );
+        """
+        cursor.execute(create_table_query)
+        connection.commit()
+        
+        cursor.close()
+        connection.close()
+        
+        print("Table 'GEOGRAFICO' created successfully.")
+    except Exception as e:
+        print("An error occurred while creating the table:")
+        print(e)
+
+
+
 
 def insertar_geografico(ubicacion,revenue):
     try:
@@ -19,7 +49,20 @@ def insertar_geografico(ubicacion,revenue):
     
 
 def formar_df():
-    spark = sesionspark.sessionSpark2()
+    
+    spark = SparkSession.builder \
+    .appName("Leer y procesar con Spark") \
+    .config("spark.hadoop.fs.s3a.endpoint", "http://spark-localstack-1:4566") \
+    .config("spark.hadoop.fs.s3a.access.key", 'test') \
+    .config("spark.hadoop.fs.s3a.secret.key", 'test') \
+    .config("spark.sql.shuffle.partitions", "4") \
+    .config("spark.jars.packages", "org.apache.hadoop:hadoop-aws:3.3.1") \
+    .config("spark.hadoop.fs.s3a.path.style.access", "true") \
+    .config("spark.hadoop.fs.s3a.impl", "org.apache.hadoop.fs.s3a.S3AFileSystem") \
+    .config("spark.driver.extraClassPath", "/opt/spark/jars/hadoop-aws-3.3.1.jar") \
+    .config("spark.executor.extraClassPath", "/opt/spark/jars/hadoop-aws-3.3.1.jar") \
+    .master("local[*]") \
+    .getOrCreate()
     
     try:
          # Unir ambos DataFrames en función de la columna común store_ID

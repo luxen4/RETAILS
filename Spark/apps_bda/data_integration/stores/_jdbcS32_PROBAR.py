@@ -38,9 +38,21 @@ def read_from_postgres():
         .option('fs.s3a.committer.staging.conflict-mode', 'replace') \
         .option("fs.s3a.fast.upload.buffer", "bytebuffer")\
         .mode('overwrite') \
-        .csv(path='s3a://my-local-bucket/outputconseguido.csv', sep=',')
+        .csv(path='s3a://my-local-bucket/stores99.csv', sep=',')
+        
+        
+        
+        df = spark.read \
+        .option("header", "true") \
+        .csv("s3a://my-local-bucket/stores99.csv")
+        
+        
+        
+        
 
         spark.stop()
+
+
 
 
 
