@@ -69,7 +69,7 @@ Para el contenedor de spark
 
 ### Entrar al locastack ##
 
-# docker exec -it 41fdbaec400ae77639644370a42e71d2ab95a5fcc146e73ff8a4fbae53017379 /bin/bash    # casa
+# docker exec -it cb430cd4f9efbef8687f7aebe43e48e079d3b56863b50cfb330b934efc20927b /bin/bash    # casa
 # docker exec -it 296f24ddfe050cf2c3e6a4e59ce62af4e4c64ab3778606eb4e0f8c86ed036edc /bin/bash    # clase
 
     # Crear un bucket por comando    ---> awslocal s3api create-bucket --bucket my-local-bucket

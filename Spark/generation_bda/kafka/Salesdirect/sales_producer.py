@@ -8,10 +8,6 @@ producer = KafkaProducer(bootstrap_servers=['localhost:9092'], value_serializer=
 # producer = KafkaProducer(bootstrap_servers= ['kafka:9093'], value_serializer=lambda x: dumps(x).encode('utf-8'))
 
 while True:
-    
-    #store_id = ''.join(random.choices('ABCDEFGHIJKLMNOPQRSTUVWXYZ', k=3))
-    #product_id = ''.join(random.choices('ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789', k=6))
-    
     store_id = random.randint(1, 21)
     product_id = random.randint(1, 10)
     quantity_sold = random.randint(1, 100)
@@ -26,21 +22,6 @@ while True:
         "revenue": revenue
     }
     
-    
+    print(message)
     producer.send('sales_stream', value=message)
     sleep(3)  # Adjust frequency as needed
-    
-
-'''
-  # Obtener la hora actual en la zona horaria local
-    from datetime import datetime, timezone
-    now = datetime.now(timezone.utc).astimezone()
-    
-    message = {
-        "timestamp": int(now.timestamp() * 1000),
-        "store_id": store_id,
-        "product_id": product_id,
-        "quantity_sold": quantity_sold,
-        "revenue": revenue
-    }
-    '''

@@ -8,6 +8,7 @@ def createTable_Sales_streem():
         cursor.execute("""
             CREATE TABLE IF NOT EXISTS sales_stream (
             sales_id SERIAL PRIMARY KEY,
+            fecha Date,
             store_id INTEGER,
             product_id INTEGER,
             quantity_sold DECIMAL(10,2),

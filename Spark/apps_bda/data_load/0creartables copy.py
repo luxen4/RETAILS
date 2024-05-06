@@ -4,7 +4,7 @@ import psycopg2
 def createTable_ventas():
     try:
         #connection = psycopg2.connect( host="my_postgres_service", port="5432", database="warehouse_retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
-        connection = psycopg2.connect( host="localhost", port="5432", database="warehouse_retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
+        connection = psycopg2.connect( host="localhost", port="5432", database="retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
     
         cursor = connection.cursor()
         
@@ -31,42 +31,7 @@ def createTable_ventas():
         print("An error occurred while creating the table:")
         print(e)
     
-    
-    
-# Crear una tabla para responder a las preguntas de ANALISIS-VENTAS en WAREHOSE
-def createTable_ventas():
-    try:
-        #connection = psycopg2.connect( host="my_postgres_service", port="5432", database="warehouse_retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
-        connection = psycopg2.connect( host="localhost", port="5432", database="warehouse_retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
-    
-        cursor = connection.cursor()
-        
-        create_table_query = """
-            CREATE TABLE IF NOT EXISTS ventas (
-                ventas_id SERIAL PRIMARY KEY,
-                store_id INTEGER,
-                store_name VARCHAR (100),
-                location VARCHAR (100),
-                date DATE,
-                product_ID INTEGER,
-                quantity_sold DECIMAL (10,2),
-                revenue DECIMAL(10,2)
-            );
-        """
-        cursor.execute(create_table_query)
-        connection.commit()
-        
-        cursor.close()
-        connection.close()
-        
-        print("Table 'VENTAS' created successfully.")
-    except Exception as e:
-        print("An error occurred while creating the table:")
-        print(e)
-    
-    
-    
-
+ 
 # Leer el CSV y cargar los datos en la tabla de PostgreSQL
 def insertarTable_ventas():
     
@@ -93,7 +58,7 @@ def insertarTable_ventas():
 def createTable_geografico():
     try:
         #connection = psycopg2.connect( host="my_postgres_service", port="5432", database="warehouse_retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
-        connection = psycopg2.connect( host="localhost", port="5432", database="warehouse_retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
+        connection = psycopg2.connect( host="localhost", port="5432", database="retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
     
         cursor = connection.cursor()
         create_table_query = """
@@ -121,7 +86,7 @@ def createTable_geografico():
 def createTable_demografico():
     try:
         #connection = psycopg2.connect( host="my_postgres_service", port="5432", database="warehouse_retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
-        connection = psycopg2.connect( host="localhost", port="5432", database="warehouse_retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
+        connection = psycopg2.connect( host="localhost", port="5432", database="retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
     
         cursor = connection.cursor()
         
@@ -150,7 +115,7 @@ def createTable_demografico():
 def createTable_temporal():
     try:
         #connection = psycopg2.connect( host="my_postgres_service", port="5432", database="warehouse_retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
-        connection = psycopg2.connect( host="localhost", port="5432", database="warehouse_retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
+        connection = psycopg2.connect( host="localhost", port="5432", database="retail_db", user="postgres", password="casa1234")   # Conexión a la base de datos PostgreSQL
     
         cursor = connection.cursor()
         
@@ -179,6 +144,21 @@ createTable_ventas()
 #createTable_demografico()
 #createTable_temporal()
 insertarTable_ventas()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # a. Análisis de ventas:  store_ID, store_name, ubicación, revenue

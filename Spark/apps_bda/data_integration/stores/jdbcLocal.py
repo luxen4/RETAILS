@@ -1,7 +1,5 @@
 import psycopg2
 import csv, json
-conexion = psycopg2.connect(host="localhost", port="5432", database="retail_db", user="postgres", password="casa1234")
-cursor = conexion.cursor()
 
 
 def generaJSON(nombre_archivo, resultados):
@@ -37,7 +35,9 @@ def generaCSV(nombre_archivo, resultados):
 
 try:
     # Establecer la conexión a la base de datos PostgreSQL
-  
+    conexion = psycopg2.connect(host="localhost", port="5432", database="retail_db", user="postgres", password="casa1234")
+    cursor = conexion.cursor()
+
     sql_query = "SELECT * FROM stores"
     cursor.execute(sql_query)
     resultados = cursor.fetchall()

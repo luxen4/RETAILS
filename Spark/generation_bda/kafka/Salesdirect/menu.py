@@ -102,7 +102,46 @@ def insertarStores(store_name, location, demographics):
                 revenue DECIMAL(10,2));
         
         
+def select_product_name(product_ID):
+    connection = psycopg2.connect(host='localhost', port='5432',database='warehouse_retail_db', user='postgres', password='casa1234')
+    info2='\n'
+    try:
+        cursor = connection.cursor()
+        cursor.execute("SELECT store_name FROM products where product_ID = '"+product_ID+"';")
+        rows = cursor.fetchall()
+
+        for row in rows: 
+            print(row)
+
+        cursor.close()
+        connection.close()
+        return info2
+
+    except psycopg2.Error as e:
+        print("Error al conectar a la base de datos:", e)        
+
+def select_store_name(store_ID):
+    connection = psycopg2.connect(host='localhost', port='5432',database='retail_db', user='postgres', password='casa1234')
+    try:
+        cursor = connection.cursor()
+        cursor.execute("SELECT store_name FROM stores where store_ID = '"+str(store_ID)+"';")
+        rows = cursor.fetchall()
+
+        for row in rows: 
+            print("La row: " + str(row[0]))
+            
+
+            cursor.close()
+            connection.close()
+            return row[0]
+
+    except psycopg2.Error as e:
+        print("Error al conectar a la base de datos:", e)
         
+        
+  
+            store_ID = json_obj["store_id"]
+            store_name = select_store_name(store_ID)
 
-
+  #product_name = select_product_name(product_ID)
 '''

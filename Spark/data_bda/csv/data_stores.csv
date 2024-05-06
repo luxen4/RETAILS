@@ -1,8 +1,10 @@
-store_ID,store_name,location,demographics
-1,NZN,Vitoria,"Media edad: 41, Sexo: H, Nivel Ingresos: 15916"
-2,MQM,Vitoria,"Media edad: 23, Sexo: M, Nivel Ingresos: 32765"
-3,,Logroï¿½o,"Media edad: 71, Sexo: H, Nivel Ingresos: 21389"
-4,WHU,Logroï¿½o,"Media edad: 19, Sexo: H, Nivel Ingresos: 37360"
-5,LOK,Vitoria,"Media edad: 27, Sexo: M, Nivel Ingresos: 19312"
-6,,,"Media edad: 73, Sexo: M, Nivel Ingresos: 49064"
-7,TTX,,"Media edad: 38, Sexo: H, Nivel Ingresos: 48846"
+store_id,store_name,location,demografics
+1,"Jones, Gates and Moreno",Santander,"Media edad:52,Sexo:M,Nivel Ingresos:4563.59"
+2,Lloyd Group,Santander,"Media edad:70,Sexo:H,Nivel Ingresos:3273.77"
+3,George-Lewis,Pamplona,"Media edad:57,Sexo:H,Nivel Ingresos:2822.17"
+4,"Norman, Garrett and Reyes",Logroño,"Media edad:69,Sexo:H,Nivel Ingresos:2322.91"
+5,Reese-Cain,San Sebastián,"Media edad:84,Sexo:H,Nivel Ingresos:601.61"
+6,Schmitt and Sons,Bilbao,"Media edad:56,Sexo:H,Nivel Ingresos:2902.89"
+7,Jackson-Clark,Santander,"Media edad:55,Sexo:H,Nivel Ingresos:4787.34"
+8,"Brewer, Gonzalez and Vega",San Sebastián,"Media edad:19,Sexo:M,Nivel Ingresos:5089.06"
+9,"Kelley, Cruz and Smith",San Sebastián,"Media edad:55,Sexo:H,Nivel Ingresos:554.91"

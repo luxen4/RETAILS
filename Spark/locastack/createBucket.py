@@ -7,6 +7,7 @@ s3 = boto3.client(
     aws_access_key_id='test',               # dummy access key (LocalStack default)
     aws_secret_access_key='test',           # dummy secret key (LocalStack default)
 )
+#region_name='us-east-1'
 
 # Define the bucket name
 bucket_name = 'my-local-bucket'
@@ -15,3 +16,11 @@ bucket_name = 'my-local-bucket'
 s3.create_bucket(Bucket=bucket_name)
 
 print(f"Bucket '{bucket_name}' created successfully.")
+
+
+
+
+
+
+
+
