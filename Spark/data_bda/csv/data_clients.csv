@@ -1,0 +1,12 @@
+client_ID,client_name,client_age,surnames,dni
+id,nombre,edad,apellidos,dni
+1,Elena,20,Martínez Martínez,97326852P
+2,María,73,Gómez Martínez,93795941X
+3,Juan,68,Gómez García,02254700N
+4,Elena,53,Gómez Pérez,53081297I
+5,María,58,García Fernández,70399225L
+6,María,50,García López,91912862M
+7,Pedro,69,Sánchez Martínez,08480967J
+8,María,18,García Ramírez,42278852H
+9,Elena,58,Sánchez López,82070279G
+10,Elena,70,García López,31146087O

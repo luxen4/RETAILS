@@ -1,0 +1,82 @@
+[
+    {
+        "id": 26,
+        "nombre": "Mar\u00eda",
+        "apellido": "L\u00f3pez",
+        "cargo": "Encargado de inventario",
+        "salario": 2965.0,
+        "fecha_contratacion": "2022-09-06"
+    },
+    {
+        "id": 27,
+        "nombre": "Mar\u00eda",
+        "apellido": "G\u00f3mez",
+        "cargo": "Vendedor",
+        "salario": 3999.0,
+        "fecha_contratacion": "2010-02-26"
+    },
+    {
+        "id": 28,
+        "nombre": "Ana",
+        "apellido": "Ram\u00edrez",
+        "cargo": "Encargado de inventario",
+        "salario": 2675.0,
+        "fecha_contratacion": "2017-05-09"
+    },
+    {
+        "id": 29,
+        "nombre": "Ana",
+        "apellido": "Garc\u00eda",
+        "cargo": "Supervisor de cajas",
+        "salario": 2550.0,
+        "fecha_contratacion": "2009-08-17"
+    },
+    {
+        "id": 30,
+        "nombre": "Laura",
+        "apellido": "L\u00f3pez",
+        "cargo": "Cajero",
+        "salario": 3122.0,
+        "fecha_contratacion": "2022-09-20"
+    },
+    {
+        "id": 31,
+        "nombre": "Carlos",
+        "apellido": "P\u00e9rez",
+        "cargo": "Supervisor de cajas",
+        "salario": 3848.0,
+        "fecha_contratacion": "2008-10-01"
+    },
+    {
+        "id": 32,
+        "nombre": "Laura",
+        "apellido": "Rodr\u00edguez",
+        "cargo": "Supervisor de cajas",
+        "salario": 2126.0,
+        "fecha_contratacion": "2011-09-11"
+    },
+    {
+        "id": 33,
+        "nombre": "Mar\u00eda",
+        "apellido": "S\u00e1nchez",
+        "cargo": "Gerente",
+        "salario": 3052.0,
+        "fecha_contratacion": "2010-10-09"
+    },
+    {
+        "id": 34,
+        "nombre": "Mar\u00eda",
+        "apellido": "P\u00e9rez",
+        "cargo": "Asistente de ventas",
+        "salario": 3861.0,
+        "fecha_contratacion": "2002-06-25"
+    },
+    {
+        "id": 35,
+        "nombre": "David",
+        "apellido": "Ram\u00edrez",
+        "cargo": "Ram\u00edrez",
+        "salario": 2071.0,
+        "fecha_contratacion": "2018-01-01"
+    }
+]
