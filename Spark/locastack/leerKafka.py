@@ -36,3 +36,12 @@ def leerConSpark():
         print(e)
 
 leerConSpark()
+
+
+
+
+'''
+    bucket_name = 'my-local-bucket' 
+    file_name='output/'
+    df_original = spark.read.csv(f"s3a://{bucket_name}/{file_name}", header=True, inferSchema=True)
+'''

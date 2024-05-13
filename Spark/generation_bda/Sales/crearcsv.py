@@ -2,7 +2,7 @@ import csv, random
 import datetime
 # Function to create a new CSV file with sample data
 
-def generafecha2():
+def generafecha():
     fecha_aleatoria_str=''
     
     probabilidad = random.random()
@@ -20,27 +20,12 @@ def generafecha2():
     return fecha_aleatoria_str
 
 
-#def generafecha():
-    dia = random.randint(1, 28)
-    mes = random.randint(1, 12)
-    ano = random.randint(2000, 2024)
-    
-    # Probabilidad del 5% de que la fecha sea nula o tenga un formato incorrecto
-    probabilidad = random.random()
-    if probabilidad < 0.05:
-        date = None
-    else:
-        # date = f"{dia}-{mes}-{ano}"
-        date = f"{ano}-{mes}-{dia}"
-            
-    return date
-#date = generafecha()
 
 def create_csv_file(filename):
     filas=[]
     for i in range(1, 2001):
        
-        date = generafecha2()
+        date = generafecha()
         store_ID = random.randint(1, 21)
         product_ID = random.randint(1, 10)
         quantity_sold = random.randint(1, 101)
@@ -74,4 +59,7 @@ def create_csv_file(filename):
 
     print(f"Created {filename}")
 
-create_csv_file("sales_data.csv")
+
+file_name="./data_bda/csv/sales_data.csv"
+# file_name="/opt/spark-data/csv/sales_data2.csv"   desde dentro
+create_csv_file(file_name)

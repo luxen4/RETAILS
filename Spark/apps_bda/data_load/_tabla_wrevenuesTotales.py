@@ -23,23 +23,22 @@ try:
     #___________________________________
     # Unir ambos DataFrames en función de la columna común store_ID
     bucket_name = 'my-local-bucket' 
-    file_name='data_stores.csv'
-    df_1 = spark.read.csv(f"s3a://{bucket_name}/{file_name}", header=True, inferSchema=True)
-    df_1.show()
+    file_name='stores_csv'
+    df_stores = spark.read.csv(f"s3a://{bucket_name}/{file_name}", header=True, inferSchema=True)
+    df_stores.show()
     
     # Archivo virtual
-    other_file_name='sales_data_procesado.csv'
-    df_2 = spark.read.option("header", "true").csv(f"s3a://{bucket_name}/{other_file_name}")
-    df_2.show()
+    other_file_name='sales_csv'
+    df_sales = spark.read.option("header", "true").csv(f"s3a://{bucket_name}/{other_file_name}")
+    df_sales.show()
     
-    df = df_1.join(df_2.select("store_ID","product_ID","revenue", "Dia","fecha_procesado","nivel_procesado"), "store_ID", "left")
+    df = df_stores.join(df_sales.select("store_ID","product_ID","revenue"), "store_ID", "left")
     #___________________________________
-    df.show()
+    #df.show()
     
     
     # Eliminar columnas
-    df = df[[col for col in df.columns if col != "Dia"]]
-    df.show()
+    #df = df[[col for col in df.columns if col != "Dia"]]
     
     # Agrupar por store_ID y sumar el revenue
     df_grouped = df.groupBy("location").agg(F.sum("revenue").alias("total_revenue"))
@@ -63,9 +62,10 @@ try:
     
    
     # Escribe el DataFrame como un archivo CSV localmente
-    output_file_path = "s3a://my-local-bucket/premio.csv"
-    df_grouped.write.csv(output_file_path, mode="overwrite", header=True)
+    output_file_path = "s3a://my-local-bucket/premio_csv"
+    df = df_grouped.write.csv(output_file_path, mode="overwrite", header=True)
     print("LLegado al final")
+    
     
     
     spark.stop()
@@ -73,3 +73,6 @@ try:
 except Exception as e:
     print("error reading TXT")
     print(e)
+    
+    
+# Falta crear la tabla y que los inserte con jdbc

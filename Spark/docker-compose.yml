@@ -59,7 +59,7 @@ services:
       - ./data_bda:/opt/spark-data
       - ./generation_bda:/opt/spark-generation
 
-  
+  #'''OK
   database:
     hostname: my_postgres_service
     image: postgres:16.2-alpine
@@ -69,22 +69,36 @@ services:
       - POSTGRES_PASSWORD=casa1234
     volumes:
       - "postgres:/var/lib/postgresql/data"
-  
 
+
+
+  #'''prueba
   #database:
   #  hostname: my_postgres_service
   #  image: postgres:16.2-alpine
   #  ports:
   #    - "9999:5432"
   #  environment:
-  #    - POSTGRES_PASSWORD=bdaPrimOrd
-  #    - POSTGRES_USER=primOrd
-  #    - POSTGRES_DB=PrimOrd
+  #    - POSTGRES_PASSWORD=casa1234
+  #    - POSTGRES_USER=primord
   #  volumes:
   #    - "postgres:/var/lib/postgresql/data"
+  
+  
 
-
-
+  #prueba
+  #database:
+  #  hostname: localhost
+  #  image: postgres:16.2-alpine
+  #  ports:
+  #    - "9999:5432"
+  #  environment:
+  #    - POSTGRES_PASSWORD=primord
+  #    - POSTGRES_USER=primord
+  #    - POSTGRES_DB=primord_db
+  #  volumes:
+  #    - "postgres:/var/lib/postgresql/data"
+  #  #psql -h localhost -p 9999 -U primOrd -d PrimOrd
 
 
   mongodb:
@@ -123,7 +137,9 @@ services:
 
 
   kafka:
-    image: wurstmeister/kafka:latest
+    # OKimage: wurstmeister/kafka:latest
+    #image: wurstmeister/kafka:2.13-2.7.0
+    image: confluentinc/cp-kafka:6.2.0
     hostname: kafka
     container_name: kafka
     ports:
@@ -141,7 +157,9 @@ services:
       - zookeeper
   
   zookeeper:
-    image: wurstmeister/zookeeper:latest
+    # OKimage: wurstmeister/zookeeper:latest
+    #image: wurstmeister/zookeeper:3.6.3
+    image: zookeeper:3.6
     container_name: zookeeper
     ports:
       - "2181:2181"

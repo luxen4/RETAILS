@@ -25,3 +25,13 @@ while True:
     print(message)
     producer.send('sales_stream', value=message)
     sleep(3)  # Adjust frequency as needed
+
+
+
+'''
+sales_id SERIAL PRIMARY KEY,
+fecha Date,
+store_id INTEGER,
+product_id INTEGER,
+quantity_sold DECIMAL(10,2),
+revenue DECIMAL(10,2)'''

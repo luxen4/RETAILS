@@ -2,6 +2,7 @@
 
 from pyspark.sql import SparkSession
 
+
 # Crear una sesión de Spark
 def sesionSpark():
           
@@ -24,18 +25,20 @@ def sesionSpark():
     return spark
         
         
-def leerPostgres():
+def creaCSVdesdePostgres():
     spark = sesionSpark()
         
     jdbc_url = "jdbc:postgresql://spark-database-1:5432/retail_db"
     connection_properties = {"user": "postgres", "password": "casa1234", "driver": "org.postgresql.Driver"}
 
-    df = spark.read.jdbc(url=jdbc_url, table="stores", properties=connection_properties)
+    df = spark.read.jdbc(url=jdbc_url, table="sales_stream", properties=connection_properties)
     df.createOrReplaceTempView("tabla_spark")
-
-    #resultado = spark.sql("SELECT * FROM tabla_spark WHERE store_name ='" + store_name + "';")
+    
+    df.printSchema()
+    
     resultado = spark.sql("SELECT * FROM tabla_spark;")
-    resultado.show()
+    #resultado.show()
+    
     
     resultado \
     .write \
@@ -44,87 +47,53 @@ def leerPostgres():
     .option('fs.s3a.committer.staging.conflict-mode', 'replace') \
     .option("fs.s3a.fast.upload.buffer", "bytebuffer")\
     .mode('overwrite') \
-    .csv(path='s3a://my-local-bucket/data_stores.csv', sep=',')
+    .csv(path='s3a://my-local-bucket/sales_stream_csv', sep=',')
 
 
     bucket_name = 'my-local-bucket' 
-    file_name='data_stores.csv'
+    file_name='sales_stream_csv'
     df_original = spark.read.csv(f"s3a://{bucket_name}/{file_name}", header=True, inferSchema=True)
     df_original.show()
     
-leerPostgres()
+    '''
+    df = spark.read.jdbc(url=jdbc_url, table="hoteles", properties=connection_properties)
+    df.createOrReplaceTempView("tabla_spark")
+
+    resultado = spark.sql("SELECT * FROM tabla_spark;")
+    resultado.show()
+    
+    
+    resultado \
+    .write \
+    .option('fs.s3a.committer.name', 'partitioned') \
+    .option('fs.s3a.committer.staging.conflict-mode', 'replace') \
+    .option("fs.s3a.fast.upload.buffer", "bytebuffer")\
+    .mode('overwrite') \
+    .json(path='s3a://my-local-bucket/data_hoteles.json')                   ### OK ###
+    
+    bucket_name = 'my-local-bucket'
+    file_name='data_hoteles.json'
+    df_original = spark.read.json(f"s3a://{bucket_name}/{file_name}")
+    
+    
+    df_original.show()'''
+    spark.stop()
+
+creaCSVdesdePostgres()
 
 # resultado.write.csv("s3a://my-local-bucket/empleados1.csv", header=True, mode="overwrite")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''
-df = spark.read.jdbc(url=jdbc_url, table="hoteles", properties=connection_properties)
-df.createOrReplaceTempView("tabla_spark")
-
-resultado = spark.sql("SELECT * FROM tabla_spark;")
-resultado.show()
-
-
-resultado \
-.write \
-.option('fs.s3a.committer.name', 'partitioned') \
-.option('fs.s3a.committer.staging.conflict-mode', 'replace') \
-.option("fs.s3a.fast.upload.buffer", "bytebuffer")\
-.mode('overwrite') \
-.json(path='s3a://my-local-bucket/data_hoteles.json')                   ### OK ###
-
-bucket_name = 'my-local-bucket'
-file_name='data_hoteles.json'
-df_original = spark.read.json(f"s3a://{bucket_name}/{file_name}")
-
-
-df_original.show()
-spark.stop()'''
-
-
-
-
-
-
-
-
-
 
 '''
 from pyspark.sql.types import StructType, StructField, StringType, IntegerType
 # Definir el esquema para los datos
 schema = StructType([
-StructField("id_hotel", IntegerType(), True),
-StructField("nombre_hotel", StringType(), True),
-StructField("direccion_hotel", StringType(), True),
-StructField("empleados", StringType(), True)
+    StructField("id_hotel", IntegerType(), True),
+    StructField("nombre_hotel", StringType(), True),
+    StructField("direccion_hotel", StringType(), True),
+    StructField("empleados", StringType(), True)
 ])'''
-
-
-
+    
+   
+    
 
 

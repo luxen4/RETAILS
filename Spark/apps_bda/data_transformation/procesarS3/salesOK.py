@@ -22,7 +22,7 @@ spark = SparkSession.builder \
     
 try:
     #date,store_ID,product_ID,quantity_sold,revenue
-    df_filtrado = spark.read.csv("s3a://my-local-bucket/sales_data.csv", header=True)  # Leer el archivo CSV
+    df_filtrado = spark.read.csv("s3a://my-local-bucket/sales_csv", header=True)  # Leer el archivo CSV
 
     # Fechas van a año/mes/dia
     columna_fecha = "date"
@@ -84,8 +84,12 @@ try:
     ##########
     
     
+    # Procesa el DataFrame según sea necesario
+    df_filtrado = df_filtrado.filter(df_filtrado['revenue'] > 2300)
+    
+    
     # Escribe el DataFrame como un archivo CSV localmente
-    output_file_path = "s3a://my-local-bucket/sales_data_procesado.csv"
+    output_file_path = "s3a://my-local-bucket/sales2_csv"
     df_filtrado.write.csv(output_file_path, mode="overwrite", header=True)
 
     df_filtrado.show()

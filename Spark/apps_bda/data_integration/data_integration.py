@@ -24,15 +24,17 @@ try:
     spark=sesionSpark()
     
     # csv
-    df = spark.read.csv("./../spark-data/csv/sales_data.csv")
-    ruta_salida = "s3a://my-local-bucket/sales_data.csv"
-    df=df.write.csv(ruta_salida, header=True, mode="overwrite")
+    df = spark.read.csv("./../../spark-data/csv/sales_data.csv")
+    ruta_salida = "s3a://my-local-bucket/sales_csv"
+    df=df.write.csv(ruta_salida, mode="overwrite") #  Ok sin header=True,
     
-    '''
+    
+    
     # json
-    df = spark.read.option("multiline", "true").json("./../spark-data/json/restaurantes.json")
-    ruta_salida = "s3a://my-local-bucket/restaurantes_data.json"
-    df.write.option("multiline", "true").json(ruta_salida, mode="overwrite")'''
+    df = spark.read.option("multiline", "true").json("./../../spark-data/json/data_products.json")
+    ruta_salida = "s3a://my-local-bucket/products_json"
+    df.write.option("multiline", "true").json(ruta_salida, mode="overwrite")
+    
     
     spark.stop()
 

@@ -1,6 +1,30 @@
 from pymongo import MongoClient
 import json, csv
 
+
+from pyspark.sql import SparkSession
+
+def sesionSpark():
+    
+    spark = SparkSession.builder \
+    .appName("Leer y procesar con Spark") \
+    .config("spark.hadoop.fs.s3a.endpoint", "http://spark-localstack-1:4566") \
+    .config("spark.hadoop.fs.s3a.access.key", 'test') \
+    .config("spark.hadoop.fs.s3a.secret.key", 'test') \
+    .config("spark.sql.shuffle.partitions", "4") \
+    .config("spark.jars.packages", "org.apache.hadoop:hadoop-aws:3.3.1") \
+    .config("spark.hadoop.fs.s3a.path.style.access", "true") \
+    .config("spark.hadoop.fs.s3a.impl", "org.apache.hadoop.fs.s3a.S3AFileSystem") \
+    .config("spark.driver.extraClassPath", "/opt/spark/jars/hadoop-aws-3.3.1.jar") \
+    .config("spark.executor.extraClassPath", "/opt/spark/jars/hadoop-aws-3.3.1.jar") \
+    .master("local[*]") \
+    .getOrCreate()
+    
+    return spark
+
+
+
+
 # Function to create a JSON file
 def create_json_file(filename, data):
     with open(filename, 'w') as file:
@@ -18,15 +42,13 @@ def create_csv_file(filename, data):
     products = data[0]['productos']
     with open(filename, "w", newline="") as file:
         writer = csv.writer(file) 
-        Hacer  con ref, categoría(va a ser archivo test) y descripción
-        Contrato de la tienda (PIG) y el proveedor 
-        MapReduce de Facturas de luz y otros gastos
-        Limpieza de archivos
+
         writer.writerow(["product_ID", "tipo", "talla", "color"])  # Escribir el encabezado
         for product in products:
             writer.writerow([product['id'], product['tipo'], product['talla'], product['color']])
     
     print(f"Archivo CSV '{filename}' generado exitosamente.")
+
 
 
 client = MongoClient()                      # Accede a la colección "ropa"
@@ -42,12 +64,12 @@ for producto in productos_list:
     print(producto)
     producto['_id'] = str(producto['_id'])
 
-# JSON
-create_json_file('./../../1_data_bda/json/data_products.json', productos_list)
 
-# CSV
-file_name = "./../../1_data_bda/csv/data_products.csv"
-create_csv_file(file_name, productos_list)
+# csv
+spark=sesionSpark()
+df = spark.createDataFrame(productos_list)
+ruta_salida = "s3a://my-local-bucket/products_csv"
+df = df.write.csv(ruta_salida, header=True, mode="overwrite")
 
 
 

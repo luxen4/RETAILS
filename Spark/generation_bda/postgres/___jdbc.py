@@ -2,6 +2,33 @@
 
 from pyspark.sql import SparkSession
 
+import psycopg2
+# Prueba y borrar
+try:
+    connection = psycopg2.connect(host='my_postgres_service', port='5432', database='primord_db', user= 'postgres', password='alberite' )
+    cursor = connection.cursor()
+    cursor.execute("""
+        CREATE TABLE stores (
+            store_id SERIAL PRIMARY KEY,
+            store_name VARCHAR(100),
+            location VARCHAR(100),
+            demographics VARCHAR(100)
+        );
+    """)
+    connection.commit()
+    print("Tabla Stores creada correctamente.")
+    cursor.close()
+    connection.close()
+
+except psycopg2.Error as e:
+    print("Error:", e)
+
+
+
+
+
+
+
 # Crear una sesión de Spark
 def sesionSpark():
           
@@ -27,11 +54,25 @@ def sesionSpark():
 def leerPostgres():
     spark = sesionSpark()
         
-    jdbc_url = "jdbc:postgresql://spark-database-1:5432/primord_db"
-    connection_properties = {"user": "postgres", "password": "casa1234", "driver": "org.postgresql.Driver"}
+    jdbc_url = "jdbc:postgresql://spark-database-1:9999/primord_db"
+    # OK connection_properties = {"user": "postgres", "password": "casa1234", "driver": "org.postgresql.Driver"}
+    connection_properties = {"user": "primord", "password": "primord", "driver": "org.postgresql.Driver"}
 
     df = spark.read.jdbc(url=jdbc_url, table="empleados", properties=connection_properties)
     df.createOrReplaceTempView("tabla_spark")
+    
+    
+    df.printSchema()
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     #resultado = spark.sql("SELECT * FROM tabla_spark WHERE store_name ='" + store_name + "';")
     resultado = spark.sql("SELECT * FROM tabla_spark;")
@@ -79,7 +120,7 @@ def leerPostgres():
     df_original.show()
     spark.stop()
 
-leerPostgres()
+#leerPostgres()
 
 # resultado.write.csv("s3a://my-local-bucket/empleados1.csv", header=True, mode="overwrite")
 

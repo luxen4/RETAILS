@@ -15,6 +15,7 @@ resultados = ropa_collection.find()
 
 # Imprime los resultados
 print("Productos encontrados:")
+
 for producto in resultados:
     print(producto)
     

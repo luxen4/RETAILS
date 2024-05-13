@@ -6,7 +6,7 @@ client = MongoClient()
 db = client["products"]
 ropa_collection = db["ropa"]            # Accede a la colección "ropa"
 
-# Lista de productos
+# Lista de productos, que vengan desde txt también
 productos = [
     { "id": 1, "tipo": "pantalones", "talla": "M", "color": "azul"},
     { "id": 2, "tipo": "camisa", "talla": "L", "color": "blanco"},
