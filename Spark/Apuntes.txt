@@ -2,7 +2,36 @@
 # docker-compose up -d
 
 
-pip3 install kafka-python==2.0.2
+#############
+### MYSQL ###
+#############
+mysql -u root -p       alberite
+show databases;
+create database primord_db;
+use primord_db;
+drop table clientes;
+
+
+#############
+### MONGO ###
+#############
+# mongosh
+# use proyecto
+test> ----->    use proyecto
+                switched to db proyecto
+
+proyecto> db.zapatillas.find()
+proyecto> db.zapatillas.drop()
+
+use proyecto
+db.dropDatabase()
+exit
+
+Conectarse con usuario y contraseña
+# mongosh -u root -p secret
+
+
+
 
 
 ###############
@@ -11,7 +40,7 @@ pip3 install kafka-python==2.0.2
                                                                                                           
 # cd '.\Tema 4\'
 # cd .\Spark\
-# docker exec -it ee8f2aaab1ca545d67d246bd53e593df898e1bf568f515ff3cc5997f108b8344 /bin/bash   # casa  
+# docker exec -it spark-spark-master-1 /bin/bash   # casa  
 # docker exec -it 296f24ddfe050cf2c3e6a4e59ce62af4e4c64ab3778606eb4e0f8c86ed036edc /bin/bash   # clase
 # cd /opt/spark-apps     cd /opt/spark-data/sales
 # python prueba.py
@@ -51,10 +80,14 @@ Puerto BBDD: 9999
 ######
 Librerías
 ######
-
+# pip3 install kafka-python==2.0.2
 # python3 -m pip install numpy
 # python3 -m pip install pandas>=1.0.5
 # pip3 install sqlalchemy
+
+# pip show pymongo
+# pip install --upgrade pymongo
+# pip install py2neo
 
 # Por pasos...dentro del contenedor spark
 # https://stackoverflow.com/questions/40809221/no-module-named-psycopg2
@@ -175,23 +208,6 @@ git push                            # Realizar el push de los cambios a la rama 
 & C:/Users/Adrian/AppData/Local/Microsoft/WindowsApps/python3.10.exe "./Tema 4/Spark/apps/AdriKafka/Modo2/kafka_consumer.py"
 
 
-
-
-### MONGO ###
-pip show pymongo
-pip install --upgrade pymongo
-
-
-### MYSQL ###
-mysql -u root -p       alberite
-show databases;
-create database retail_db;
-use retail_db;
-drop table clientes;
-
-
-
-pip install py2neo
 
 
 

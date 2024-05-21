@@ -17,6 +17,8 @@ RUN pip3 install psycopg2
 
 RUN pip3 install awscli-local
 
+RUN pip3 install mysql-connector-python
+
 
 
 # Fix the value of PYTHONHASHSEED
