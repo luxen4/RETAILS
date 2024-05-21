@@ -1,0 +1,8002 @@
+[
+  {
+    "fecha": "2014-12-01",
+    "referencia": "lKFeo",
+    "hotel_id": "26",
+    "concepto": "332",
+    "monto": "7999",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-04-20",
+    "referencia": "XlIHR",
+    "hotel_id": "132",
+    "concepto": "608",
+    "monto": "1000",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-05-13",
+    "referencia": "tByDY",
+    "hotel_id": "72",
+    "concepto": "861",
+    "monto": "3093",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-09-27",
+    "referencia": "rAUIO",
+    "hotel_id": "365",
+    "concepto": "759",
+    "monto": "71",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2000-01-26",
+    "referencia": "lOaZn",
+    "hotel_id": "106",
+    "concepto": "330",
+    "monto": "9767",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-05-16",
+    "referencia": "wBZxu",
+    "hotel_id": "207",
+    "concepto": "554",
+    "monto": "5435",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-07-22",
+    "referencia": "SZsKg",
+    "hotel_id": "209",
+    "concepto": "316",
+    "monto": "6002",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-10-19",
+    "referencia": "kmwoM",
+    "hotel_id": "751",
+    "concepto": "273",
+    "monto": "2458",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-03-02",
+    "referencia": "DDSGG",
+    "hotel_id": "70",
+    "concepto": "398",
+    "monto": "1814",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-04-17",
+    "referencia": "CQSyi",
+    "hotel_id": "518",
+    "concepto": "216",
+    "monto": "5639",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-03-02",
+    "referencia": "TdLZa",
+    "hotel_id": "288",
+    "concepto": "633",
+    "monto": "5285",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-03-08",
+    "referencia": "DCHyc",
+    "hotel_id": "548",
+    "concepto": "182",
+    "monto": "1600",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-04-26",
+    "referencia": "TFtGq",
+    "hotel_id": "505",
+    "concepto": "764",
+    "monto": "3523",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-07-15",
+    "referencia": "oRaRZ",
+    "hotel_id": "486",
+    "concepto": "219",
+    "monto": "7507",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-09-19",
+    "referencia": "DePfD",
+    "hotel_id": "238",
+    "concepto": "251",
+    "monto": "5553",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-04-12",
+    "referencia": "eusbb",
+    "hotel_id": "832",
+    "concepto": "583",
+    "monto": "1316",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-07-15",
+    "referencia": "oBmsY",
+    "hotel_id": "701",
+    "concepto": "420",
+    "monto": "3",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-01-22",
+    "referencia": "ySZPm",
+    "hotel_id": "562",
+    "concepto": "351",
+    "monto": "7828",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-12-31",
+    "referencia": "NLuhP",
+    "hotel_id": "12",
+    "concepto": "495",
+    "monto": "4010",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-11-15",
+    "referencia": "NEcuV",
+    "hotel_id": "305",
+    "concepto": "592",
+    "monto": "5215",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-01-25",
+    "referencia": "XGEae",
+    "hotel_id": "566",
+    "concepto": "887",
+    "monto": "4754",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-04-09",
+    "referencia": "huulf",
+    "hotel_id": "168",
+    "concepto": "857",
+    "monto": "9469",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-06-04",
+    "referencia": "AtXrT",
+    "hotel_id": "565",
+    "concepto": "164",
+    "monto": "7147",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-11-29",
+    "referencia": "GDVzi",
+    "hotel_id": "480",
+    "concepto": "312",
+    "monto": "3794",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-04-20",
+    "referencia": "BLGAA",
+    "hotel_id": "523",
+    "concepto": "20",
+    "monto": "7366",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-08-21",
+    "referencia": "WcWjQ",
+    "hotel_id": "339",
+    "concepto": "596",
+    "monto": "5688",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-03-28",
+    "referencia": "cfXkY",
+    "hotel_id": "725",
+    "concepto": "575",
+    "monto": "3595",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-01-17",
+    "referencia": "XjAtS",
+    "hotel_id": "242",
+    "concepto": "781",
+    "monto": "4805",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-02-18",
+    "referencia": "asGSI",
+    "hotel_id": "865",
+    "concepto": "935",
+    "monto": "8553",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-06-22",
+    "referencia": "GplQi",
+    "hotel_id": "558",
+    "concepto": "493",
+    "monto": "803",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-08-24",
+    "referencia": "JDiFr",
+    "hotel_id": "844",
+    "concepto": "864",
+    "monto": "983",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-03-16",
+    "referencia": "ydUmK",
+    "hotel_id": "54",
+    "concepto": "658",
+    "monto": "7835",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-04-04",
+    "referencia": "DFDLl",
+    "hotel_id": "670",
+    "concepto": "884",
+    "monto": "3708",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-05-03",
+    "referencia": "nEiML",
+    "hotel_id": "565",
+    "concepto": "576",
+    "monto": "2842",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-01-03",
+    "referencia": "zTjPJ",
+    "hotel_id": "948",
+    "concepto": "617",
+    "monto": "264",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-03-13",
+    "referencia": "qQJqj",
+    "hotel_id": "844",
+    "concepto": "472",
+    "monto": "5547",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-04-09",
+    "referencia": "oRTXP",
+    "hotel_id": "916",
+    "concepto": "183",
+    "monto": "2952",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-08-04",
+    "referencia": "bZpej",
+    "hotel_id": "265",
+    "concepto": "894",
+    "monto": "4818",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-11-25",
+    "referencia": "oWyEQ",
+    "hotel_id": "91",
+    "concepto": "219",
+    "monto": "5036",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-12-22",
+    "referencia": "DcXQD",
+    "hotel_id": "556",
+    "concepto": "416",
+    "monto": "932",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-01-21",
+    "referencia": "KrxlX",
+    "hotel_id": "19",
+    "concepto": "518",
+    "monto": "5299",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-07-30",
+    "referencia": "RHYpO",
+    "hotel_id": "588",
+    "concepto": "851",
+    "monto": "3145",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-05-01",
+    "referencia": "kCXKV",
+    "hotel_id": "6",
+    "concepto": "63",
+    "monto": "3251",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-05-10",
+    "referencia": "xsFxt",
+    "hotel_id": "369",
+    "concepto": "965",
+    "monto": "6197",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-01-03",
+    "referencia": "WtZUx",
+    "hotel_id": "905",
+    "concepto": "45",
+    "monto": "7777",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-04-08",
+    "referencia": "qIsUq",
+    "hotel_id": "752",
+    "concepto": "479",
+    "monto": "4626",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2021-03-22",
+    "referencia": "KRSFT",
+    "hotel_id": "149",
+    "concepto": "656",
+    "monto": "2828",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-10-18",
+    "referencia": "OAdsJ",
+    "hotel_id": "837",
+    "concepto": "103",
+    "monto": "9003",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-08-19",
+    "referencia": "fzoGH",
+    "hotel_id": "31",
+    "concepto": "434",
+    "monto": "8957",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-08-01",
+    "referencia": "RiPjH",
+    "hotel_id": "224",
+    "concepto": "632",
+    "monto": "1624",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-03-17",
+    "referencia": "xTgzv",
+    "hotel_id": "125",
+    "concepto": "304",
+    "monto": "4746",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-05-20",
+    "referencia": "ePZrU",
+    "hotel_id": "175",
+    "concepto": "528",
+    "monto": "1226",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-07-01",
+    "referencia": "GHbgS",
+    "hotel_id": "992",
+    "concepto": "993",
+    "monto": "837",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-03-14",
+    "referencia": "qcTOd",
+    "hotel_id": "407",
+    "concepto": "947",
+    "monto": "1157",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-03-02",
+    "referencia": "OHZZm",
+    "hotel_id": "560",
+    "concepto": "661",
+    "monto": "2252",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2017-07-21",
+    "referencia": "TAHZw",
+    "hotel_id": "124",
+    "concepto": "367",
+    "monto": "5870",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-09-18",
+    "referencia": "liQwD",
+    "hotel_id": "838",
+    "concepto": "264",
+    "monto": "609",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-05-04",
+    "referencia": "RSaLi",
+    "hotel_id": "683",
+    "concepto": "476",
+    "monto": "2906",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-04-27",
+    "referencia": "KrfGb",
+    "hotel_id": "562",
+    "concepto": "208",
+    "monto": "848",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-02-03",
+    "referencia": "fhDrO",
+    "hotel_id": "403",
+    "concepto": "668",
+    "monto": "2325",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-05-23",
+    "referencia": "MEKOi",
+    "hotel_id": "898",
+    "concepto": "566",
+    "monto": "6797",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-05-23",
+    "referencia": "OboKl",
+    "hotel_id": "823",
+    "concepto": "390",
+    "monto": "1490",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-04-04",
+    "referencia": "NffiF",
+    "hotel_id": "386",
+    "concepto": "629",
+    "monto": "2977",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-04-19",
+    "referencia": "NLsnd",
+    "hotel_id": "932",
+    "concepto": "624",
+    "monto": "5793",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-04-24",
+    "referencia": "tidqZ",
+    "hotel_id": "902",
+    "concepto": "60",
+    "monto": "7258",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-07-14",
+    "referencia": "qognd",
+    "hotel_id": "894",
+    "concepto": "128",
+    "monto": "4464",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2017-06-10",
+    "referencia": "caGQX",
+    "hotel_id": "946",
+    "concepto": "712",
+    "monto": "4170",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-01-17",
+    "referencia": "esoOZ",
+    "hotel_id": "686",
+    "concepto": "655",
+    "monto": "4921",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-05-13",
+    "referencia": "CZBkr",
+    "hotel_id": "264",
+    "concepto": "770",
+    "monto": "8752",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-06-02",
+    "referencia": "nBkBR",
+    "hotel_id": "809",
+    "concepto": "151",
+    "monto": "5108",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-03-15",
+    "referencia": "kuLsE",
+    "hotel_id": "758",
+    "concepto": "572",
+    "monto": "7650",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-09-09",
+    "referencia": "JDUDk",
+    "hotel_id": "710",
+    "concepto": "435",
+    "monto": "3089",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-12-22",
+    "referencia": "ZJAav",
+    "hotel_id": "934",
+    "concepto": "609",
+    "monto": "575",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-12-12",
+    "referencia": "pNDcY",
+    "hotel_id": "54",
+    "concepto": "176",
+    "monto": "126",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-08-17",
+    "referencia": "wwNWx",
+    "hotel_id": "40",
+    "concepto": "271",
+    "monto": "8275",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-08-25",
+    "referencia": "dCxTs",
+    "hotel_id": "723",
+    "concepto": "827",
+    "monto": "7685",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-01-14",
+    "referencia": "EOOZn",
+    "hotel_id": "229",
+    "concepto": "267",
+    "monto": "1337",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-02-13",
+    "referencia": "lzcHS",
+    "hotel_id": "482",
+    "concepto": "239",
+    "monto": "3854",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-12-28",
+    "referencia": "FJdIq",
+    "hotel_id": "309",
+    "concepto": "609",
+    "monto": "7591",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-08-19",
+    "referencia": "shsuG",
+    "hotel_id": "494",
+    "concepto": "370",
+    "monto": "2123",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-08-01",
+    "referencia": "Qawlw",
+    "hotel_id": "703",
+    "concepto": "256",
+    "monto": "5235",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-02-14",
+    "referencia": "cLxPD",
+    "hotel_id": "807",
+    "concepto": "979",
+    "monto": "9468",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-10-31",
+    "referencia": "XEiIo",
+    "hotel_id": "141",
+    "concepto": "40",
+    "monto": "1105",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-03-02",
+    "referencia": "ETSQf",
+    "hotel_id": "244",
+    "concepto": "614",
+    "monto": "9236",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-07-09",
+    "referencia": "HlAWF",
+    "hotel_id": "298",
+    "concepto": "997",
+    "monto": "6541",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-05-22",
+    "referencia": "IRslA",
+    "hotel_id": "683",
+    "concepto": "278",
+    "monto": "4113",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-01-19",
+    "referencia": "jZCLm",
+    "hotel_id": "362",
+    "concepto": "879",
+    "monto": "5354",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-07-17",
+    "referencia": "rgJMg",
+    "hotel_id": "904",
+    "concepto": "532",
+    "monto": "9044",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-04-13",
+    "referencia": "eiZhi",
+    "hotel_id": "427",
+    "concepto": "162",
+    "monto": "8376",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-04-28",
+    "referencia": "RjFpD",
+    "hotel_id": "340",
+    "concepto": "450",
+    "monto": "5124",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-09-16",
+    "referencia": "FFWHj",
+    "hotel_id": "427",
+    "concepto": "634",
+    "monto": "5189",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-09-10",
+    "referencia": "Wiikk",
+    "hotel_id": "331",
+    "concepto": "578",
+    "monto": "5709",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-04-30",
+    "referencia": "WtAsG",
+    "hotel_id": "25",
+    "concepto": "667",
+    "monto": "1338",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-07-27",
+    "referencia": "lulQp",
+    "hotel_id": "370",
+    "concepto": "466",
+    "monto": "3499",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-08-08",
+    "referencia": "TcZvr",
+    "hotel_id": "78",
+    "concepto": "139",
+    "monto": "4638",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-09-15",
+    "referencia": "yLllN",
+    "hotel_id": "329",
+    "concepto": "137",
+    "monto": "7620",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2017-07-25",
+    "referencia": "cpRPr",
+    "hotel_id": "270",
+    "concepto": "936",
+    "monto": "7907",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-04-06",
+    "referencia": "TOAUE",
+    "hotel_id": "998",
+    "concepto": "419",
+    "monto": "1934",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-08-31",
+    "referencia": "rEEpH",
+    "hotel_id": "460",
+    "concepto": "682",
+    "monto": "5338",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-04-08",
+    "referencia": "uyjWz",
+    "hotel_id": "857",
+    "concepto": "787",
+    "monto": "6287",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-11-06",
+    "referencia": "OzFYM",
+    "hotel_id": "242",
+    "concepto": "614",
+    "monto": "494",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-11-24",
+    "referencia": "MYGwb",
+    "hotel_id": "353",
+    "concepto": "455",
+    "monto": "8305",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-05-11",
+    "referencia": "kDyZt",
+    "hotel_id": "212",
+    "concepto": "285",
+    "monto": "3696",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-02-27",
+    "referencia": "jqHuB",
+    "hotel_id": "892",
+    "concepto": "683",
+    "monto": "8091",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-05-30",
+    "referencia": "axbYE",
+    "hotel_id": "210",
+    "concepto": "488",
+    "monto": "8529",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-07-14",
+    "referencia": "POuAW",
+    "hotel_id": "368",
+    "concepto": "792",
+    "monto": "25",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-09-22",
+    "referencia": "ETeCe",
+    "hotel_id": "388",
+    "concepto": "622",
+    "monto": "2908",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-12-02",
+    "referencia": "PqIqP",
+    "hotel_id": "91",
+    "concepto": "466",
+    "monto": "7069",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-08-26",
+    "referencia": "Iluko",
+    "hotel_id": "375",
+    "concepto": "933",
+    "monto": "4190",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-01-07",
+    "referencia": "lCvhQ",
+    "hotel_id": "707",
+    "concepto": "541",
+    "monto": "177",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-05-25",
+    "referencia": "RvGal",
+    "hotel_id": "718",
+    "concepto": "525",
+    "monto": "9465",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-05-30",
+    "referencia": "RyAVG",
+    "hotel_id": "104",
+    "concepto": "440",
+    "monto": "3637",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-02-05",
+    "referencia": "ZSTbk",
+    "hotel_id": "606",
+    "concepto": "934",
+    "monto": "5592",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-06-04",
+    "referencia": "kUiGD",
+    "hotel_id": "849",
+    "concepto": "794",
+    "monto": "402",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-09-30",
+    "referencia": "ooDde",
+    "hotel_id": "451",
+    "concepto": "925",
+    "monto": "7330",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-05-07",
+    "referencia": "AYKar",
+    "hotel_id": "961",
+    "concepto": "307",
+    "monto": "9763",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-05-12",
+    "referencia": "SKfID",
+    "hotel_id": "470",
+    "concepto": "962",
+    "monto": "7422",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-04-09",
+    "referencia": "nHcPf",
+    "hotel_id": "842",
+    "concepto": "366",
+    "monto": "1541",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-07-26",
+    "referencia": "fTmsA",
+    "hotel_id": "147",
+    "concepto": "108",
+    "monto": "2876",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-05-29",
+    "referencia": "nLPlH",
+    "hotel_id": "233",
+    "concepto": "565",
+    "monto": "9072",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-10-18",
+    "referencia": "holPW",
+    "hotel_id": "760",
+    "concepto": "151",
+    "monto": "9088",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-01-26",
+    "referencia": "TOKmN",
+    "hotel_id": "180",
+    "concepto": "340",
+    "monto": "3156",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-06-20",
+    "referencia": "zPkXY",
+    "hotel_id": "810",
+    "concepto": "563",
+    "monto": "3794",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-01-05",
+    "referencia": "owAhu",
+    "hotel_id": "72",
+    "concepto": "826",
+    "monto": "2234",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-06-08",
+    "referencia": "mdZKv",
+    "hotel_id": "590",
+    "concepto": "81",
+    "monto": "5480",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-05-11",
+    "referencia": "ZIlPg",
+    "hotel_id": "431",
+    "concepto": "839",
+    "monto": "766",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-12-06",
+    "referencia": "swPpM",
+    "hotel_id": "603",
+    "concepto": "168",
+    "monto": "9529",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-03-09",
+    "referencia": "lSwdR",
+    "hotel_id": "100",
+    "concepto": "76",
+    "monto": "6679",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-06-06",
+    "referencia": "TNAaL",
+    "hotel_id": "712",
+    "concepto": "170",
+    "monto": "7298",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-04-06",
+    "referencia": "mYHJr",
+    "hotel_id": "248",
+    "concepto": "493",
+    "monto": "8698",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-07-12",
+    "referencia": "SRSHS",
+    "hotel_id": "907",
+    "concepto": "810",
+    "monto": "7528",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-11-24",
+    "referencia": "oEyUf",
+    "hotel_id": "427",
+    "concepto": "788",
+    "monto": "453",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-10-05",
+    "referencia": "vpAbE",
+    "hotel_id": "735",
+    "concepto": "571",
+    "monto": "7757",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-11-07",
+    "referencia": "jVLwj",
+    "hotel_id": "255",
+    "concepto": "87",
+    "monto": "6227",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-12-18",
+    "referencia": "ZhTfO",
+    "hotel_id": "229",
+    "concepto": "160",
+    "monto": "6681",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2021-08-08",
+    "referencia": "rRIud",
+    "hotel_id": "629",
+    "concepto": "829",
+    "monto": "9963",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-09-28",
+    "referencia": "pFMoA",
+    "hotel_id": "121",
+    "concepto": "437",
+    "monto": "585",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-10-21",
+    "referencia": "boMmc",
+    "hotel_id": "326",
+    "concepto": "899",
+    "monto": "7725",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-08-15",
+    "referencia": "tjfWS",
+    "hotel_id": "786",
+    "concepto": "885",
+    "monto": "7292",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-12-18",
+    "referencia": "XdxmQ",
+    "hotel_id": "181",
+    "concepto": "833",
+    "monto": "8804",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-12-22",
+    "referencia": "VqHTe",
+    "hotel_id": "703",
+    "concepto": "646",
+    "monto": "4918",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-12-18",
+    "referencia": "qNcQG",
+    "hotel_id": "30",
+    "concepto": "351",
+    "monto": "6401",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-06-25",
+    "referencia": "EDoHc",
+    "hotel_id": "795",
+    "concepto": "457",
+    "monto": "5688",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-11-18",
+    "referencia": "WxYoQ",
+    "hotel_id": "179",
+    "concepto": "777",
+    "monto": "7863",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-03-04",
+    "referencia": "NokQq",
+    "hotel_id": "137",
+    "concepto": "374",
+    "monto": "7595",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-12-24",
+    "referencia": "YVRoi",
+    "hotel_id": "217",
+    "concepto": "83",
+    "monto": "5600",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-11-04",
+    "referencia": "aOlPz",
+    "hotel_id": "313",
+    "concepto": "340",
+    "monto": "1632",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-02-14",
+    "referencia": "GzJmO",
+    "hotel_id": "51",
+    "concepto": "832",
+    "monto": "1141",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2013-01-05",
+    "referencia": "xMaMq",
+    "hotel_id": "179",
+    "concepto": "259",
+    "monto": "6467",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-02-10",
+    "referencia": "KAYgj",
+    "hotel_id": "240",
+    "concepto": "758",
+    "monto": "1930",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-11-14",
+    "referencia": "sahQM",
+    "hotel_id": "607",
+    "concepto": "128",
+    "monto": "7604",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-10-22",
+    "referencia": "DDuDn",
+    "hotel_id": "833",
+    "concepto": "357",
+    "monto": "7799",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-01-18",
+    "referencia": "VvPlH",
+    "hotel_id": "516",
+    "concepto": "911",
+    "monto": "325",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-06-09",
+    "referencia": "gOFNZ",
+    "hotel_id": "829",
+    "concepto": "333",
+    "monto": "8774",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-11-13",
+    "referencia": "YWJmu",
+    "hotel_id": "770",
+    "concepto": "86",
+    "monto": "7823",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-01-18",
+    "referencia": "dlbTE",
+    "hotel_id": "199",
+    "concepto": "251",
+    "monto": "8140",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-09-06",
+    "referencia": "aHOoO",
+    "hotel_id": "919",
+    "concepto": "114",
+    "monto": "7324",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2021-04-30",
+    "referencia": "DghaF",
+    "hotel_id": "841",
+    "concepto": "86",
+    "monto": "3531",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-04-25",
+    "referencia": "ITOvY",
+    "hotel_id": "19",
+    "concepto": "776",
+    "monto": "9954",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-08-12",
+    "referencia": "kdYxG",
+    "hotel_id": "730",
+    "concepto": "341",
+    "monto": "1506",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-01-04",
+    "referencia": "KlJDM",
+    "hotel_id": "871",
+    "concepto": "515",
+    "monto": "4670",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-02-16",
+    "referencia": "wgxPY",
+    "hotel_id": "644",
+    "concepto": "924",
+    "monto": "3294",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-01-18",
+    "referencia": "fLaZE",
+    "hotel_id": "737",
+    "concepto": "440",
+    "monto": "321",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-03-19",
+    "referencia": "wiLaf",
+    "hotel_id": "777",
+    "concepto": "850",
+    "monto": "8657",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-02-04",
+    "referencia": "xazXV",
+    "hotel_id": "295",
+    "concepto": "639",
+    "monto": "4943",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-03-09",
+    "referencia": "AQbbl",
+    "hotel_id": "705",
+    "concepto": "793",
+    "monto": "1062",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-09-27",
+    "referencia": "aCPRq",
+    "hotel_id": "776",
+    "concepto": "203",
+    "monto": "3697",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-06-23",
+    "referencia": "VUbkm",
+    "hotel_id": "684",
+    "concepto": "394",
+    "monto": "4464",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-04-17",
+    "referencia": "mbJpT",
+    "hotel_id": "200",
+    "concepto": "841",
+    "monto": "940",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-05-14",
+    "referencia": "JNebh",
+    "hotel_id": "869",
+    "concepto": "413",
+    "monto": "6790",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-12-26",
+    "referencia": "yBkhU",
+    "hotel_id": "235",
+    "concepto": "117",
+    "monto": "6104",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-12-10",
+    "referencia": "bvTzV",
+    "hotel_id": "680",
+    "concepto": "641",
+    "monto": "7243",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-12-04",
+    "referencia": "oFGWO",
+    "hotel_id": "175",
+    "concepto": "838",
+    "monto": "6347",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-11-24",
+    "referencia": "GmCBr",
+    "hotel_id": "546",
+    "concepto": "669",
+    "monto": "6950",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-06-24",
+    "referencia": "YWlJz",
+    "hotel_id": "428",
+    "concepto": "868",
+    "monto": "7662",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-07-09",
+    "referencia": "mDsNe",
+    "hotel_id": "959",
+    "concepto": "76",
+    "monto": "4380",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-01-18",
+    "referencia": "HlnFq",
+    "hotel_id": "39",
+    "concepto": "110",
+    "monto": "1603",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2013-01-13",
+    "referencia": "xbBMr",
+    "hotel_id": "301",
+    "concepto": "116",
+    "monto": "7905",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-07-12",
+    "referencia": "lrYBe",
+    "hotel_id": "996",
+    "concepto": "960",
+    "monto": "944",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-07-08",
+    "referencia": "fFize",
+    "hotel_id": "18",
+    "concepto": "198",
+    "monto": "1932",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-11-19",
+    "referencia": "AbiwJ",
+    "hotel_id": "233",
+    "concepto": "58",
+    "monto": "8080",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-02-03",
+    "referencia": "ifnML",
+    "hotel_id": "81",
+    "concepto": "155",
+    "monto": "9047",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-10-27",
+    "referencia": "vXKcQ",
+    "hotel_id": "304",
+    "concepto": "862",
+    "monto": "7860",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-07-22",
+    "referencia": "ZqJwK",
+    "hotel_id": "904",
+    "concepto": "318",
+    "monto": "2421",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-06-03",
+    "referencia": "dJhQY",
+    "hotel_id": "555",
+    "concepto": "291",
+    "monto": "1739",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-01-13",
+    "referencia": "Cyveh",
+    "hotel_id": "814",
+    "concepto": "807",
+    "monto": "3407",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-09-07",
+    "referencia": "xwwGY",
+    "hotel_id": "920",
+    "concepto": "937",
+    "monto": "9121",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-06-04",
+    "referencia": "kcqPf",
+    "hotel_id": "351",
+    "concepto": "583",
+    "monto": "4473",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-02-05",
+    "referencia": "DChdg",
+    "hotel_id": "230",
+    "concepto": "324",
+    "monto": "1575",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-08-16",
+    "referencia": "gXVgK",
+    "hotel_id": "488",
+    "concepto": "733",
+    "monto": "8268",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-04-20",
+    "referencia": "hZdBo",
+    "hotel_id": "640",
+    "concepto": "945",
+    "monto": "886",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-11-21",
+    "referencia": "RWvvk",
+    "hotel_id": "532",
+    "concepto": "665",
+    "monto": "9729",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-11-09",
+    "referencia": "CseQh",
+    "hotel_id": "96",
+    "concepto": "339",
+    "monto": "1629",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-01-12",
+    "referencia": "ikcAw",
+    "hotel_id": "679",
+    "concepto": "873",
+    "monto": "6049",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-07-26",
+    "referencia": "NLJfr",
+    "hotel_id": "400",
+    "concepto": "294",
+    "monto": "1093",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-08-25",
+    "referencia": "btQBi",
+    "hotel_id": "931",
+    "concepto": "424",
+    "monto": "1904",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-08-07",
+    "referencia": "fuKBx",
+    "hotel_id": "186",
+    "concepto": "440",
+    "monto": "4778",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-06-22",
+    "referencia": "qhaic",
+    "hotel_id": "834",
+    "concepto": "450",
+    "monto": "6273",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-08-21",
+    "referencia": "phteJ",
+    "hotel_id": "908",
+    "concepto": "679",
+    "monto": "7900",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2013-03-03",
+    "referencia": "ebLza",
+    "hotel_id": "210",
+    "concepto": "619",
+    "monto": "7180",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-08-13",
+    "referencia": "iKPDu",
+    "hotel_id": "290",
+    "concepto": "986",
+    "monto": "384",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-05-30",
+    "referencia": "tUsri",
+    "hotel_id": "500",
+    "concepto": "506",
+    "monto": "9377",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-03-16",
+    "referencia": "zqEle",
+    "hotel_id": "36",
+    "concepto": "252",
+    "monto": "5107",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-03-18",
+    "referencia": "EDiaG",
+    "hotel_id": "267",
+    "concepto": "677",
+    "monto": "2451",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-07-29",
+    "referencia": "iapqg",
+    "hotel_id": "978",
+    "concepto": "658",
+    "monto": "7059",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-12-11",
+    "referencia": "avkfl",
+    "hotel_id": "772",
+    "concepto": "912",
+    "monto": "1351",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-05-02",
+    "referencia": "qgpMd",
+    "hotel_id": "785",
+    "concepto": "469",
+    "monto": "5931",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-03-07",
+    "referencia": "kmaOW",
+    "hotel_id": "510",
+    "concepto": "360",
+    "monto": "3016",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-01-01",
+    "referencia": "OvwcX",
+    "hotel_id": "425",
+    "concepto": "640",
+    "monto": "4581",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-03-28",
+    "referencia": "dMaiS",
+    "hotel_id": "269",
+    "concepto": "409",
+    "monto": "8946",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-11-03",
+    "referencia": "ioQhQ",
+    "hotel_id": "809",
+    "concepto": "531",
+    "monto": "8853",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-04-08",
+    "referencia": "muggp",
+    "hotel_id": "750",
+    "concepto": "476",
+    "monto": "4966",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-10-18",
+    "referencia": "ogcJR",
+    "hotel_id": "664",
+    "concepto": "314",
+    "monto": "8675",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-12-22",
+    "referencia": "rXhtg",
+    "hotel_id": "796",
+    "concepto": "534",
+    "monto": "683",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-06-30",
+    "referencia": "vQekA",
+    "hotel_id": "589",
+    "concepto": "300",
+    "monto": "5273",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-05-02",
+    "referencia": "tfRZG",
+    "hotel_id": "851",
+    "concepto": "813",
+    "monto": "7023",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-01-17",
+    "referencia": "GVBUX",
+    "hotel_id": "313",
+    "concepto": "759",
+    "monto": "4689",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-07-12",
+    "referencia": "VsLbc",
+    "hotel_id": "319",
+    "concepto": "288",
+    "monto": "4079",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-05-04",
+    "referencia": "aZWmw",
+    "hotel_id": "470",
+    "concepto": "984",
+    "monto": "8528",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-08-20",
+    "referencia": "odCIa",
+    "hotel_id": "663",
+    "concepto": "559",
+    "monto": "4655",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-10-02",
+    "referencia": "LjKMS",
+    "hotel_id": "445",
+    "concepto": "503",
+    "monto": "4274",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-06-16",
+    "referencia": "kpCJd",
+    "hotel_id": "323",
+    "concepto": "960",
+    "monto": "2287",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-06-12",
+    "referencia": "owZEC",
+    "hotel_id": "203",
+    "concepto": "540",
+    "monto": "7641",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-01-03",
+    "referencia": "MUJxU",
+    "hotel_id": "877",
+    "concepto": "991",
+    "monto": "6179",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-09-30",
+    "referencia": "lFnxv",
+    "hotel_id": "245",
+    "concepto": "407",
+    "monto": "9654",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2021-08-17",
+    "referencia": "laeqo",
+    "hotel_id": "16",
+    "concepto": "216",
+    "monto": "6109",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-11-17",
+    "referencia": "MCFpK",
+    "hotel_id": "865",
+    "concepto": "354",
+    "monto": "7461",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-01-13",
+    "referencia": "ZnnbR",
+    "hotel_id": "368",
+    "concepto": "93",
+    "monto": "3080",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-02-10",
+    "referencia": "PwLCY",
+    "hotel_id": "566",
+    "concepto": "701",
+    "monto": "7435",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-02-04",
+    "referencia": "TxKtX",
+    "hotel_id": "973",
+    "concepto": "858",
+    "monto": "6747",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-08-14",
+    "referencia": "YxtGI",
+    "hotel_id": "46",
+    "concepto": "989",
+    "monto": "9324",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-12-16",
+    "referencia": "PZskT",
+    "hotel_id": "17",
+    "concepto": "380",
+    "monto": "3719",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-07-04",
+    "referencia": "UGUkK",
+    "hotel_id": "160",
+    "concepto": "674",
+    "monto": "96",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2013-07-21",
+    "referencia": "sRQPI",
+    "hotel_id": "180",
+    "concepto": "613",
+    "monto": "4747",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-05-07",
+    "referencia": "QJICZ",
+    "hotel_id": "349",
+    "concepto": "629",
+    "monto": "7293",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-09-22",
+    "referencia": "tHtWn",
+    "hotel_id": "676",
+    "concepto": "593",
+    "monto": "7607",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-10-21",
+    "referencia": "psXLy",
+    "hotel_id": "533",
+    "concepto": "736",
+    "monto": "2320",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-02-17",
+    "referencia": "qLleZ",
+    "hotel_id": "551",
+    "concepto": "44",
+    "monto": "9377",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-06-10",
+    "referencia": "KtcKo",
+    "hotel_id": "983",
+    "concepto": "79",
+    "monto": "4596",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-04-20",
+    "referencia": "zvmUk",
+    "hotel_id": "600",
+    "concepto": "750",
+    "monto": "6427",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-09-30",
+    "referencia": "CpADV",
+    "hotel_id": "32",
+    "concepto": "348",
+    "monto": "4342",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-02-15",
+    "referencia": "UvJIN",
+    "hotel_id": "357",
+    "concepto": "609",
+    "monto": "2429",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-04-17",
+    "referencia": "fgdzM",
+    "hotel_id": "987",
+    "concepto": "687",
+    "monto": "4967",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-06-13",
+    "referencia": "UOFun",
+    "hotel_id": "920",
+    "concepto": "695",
+    "monto": "5776",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-01-15",
+    "referencia": "jGaHF",
+    "hotel_id": "117",
+    "concepto": "69",
+    "monto": "8927",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-03-14",
+    "referencia": "AOQrr",
+    "hotel_id": "413",
+    "concepto": "728",
+    "monto": "1233",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-05-23",
+    "referencia": "KKbsC",
+    "hotel_id": "323",
+    "concepto": "997",
+    "monto": "3494",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-03-29",
+    "referencia": "DudWi",
+    "hotel_id": "725",
+    "concepto": "518",
+    "monto": "9789",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-10-20",
+    "referencia": "YwwCW",
+    "hotel_id": "583",
+    "concepto": "530",
+    "monto": "9076",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-07-03",
+    "referencia": "VFZnZ",
+    "hotel_id": "138",
+    "concepto": "335",
+    "monto": "8385",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-06-26",
+    "referencia": "ctRDb",
+    "hotel_id": "62",
+    "concepto": "625",
+    "monto": "4309",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-06-09",
+    "referencia": "SKaQE",
+    "hotel_id": "332",
+    "concepto": "698",
+    "monto": "1285",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-07-11",
+    "referencia": "kLWHe",
+    "hotel_id": "954",
+    "concepto": "64",
+    "monto": "9698",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-07-26",
+    "referencia": "VXUUc",
+    "hotel_id": "63",
+    "concepto": "118",
+    "monto": "2278",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-01-03",
+    "referencia": "VBNqa",
+    "hotel_id": "778",
+    "concepto": "343",
+    "monto": "3978",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-12-19",
+    "referencia": "dnqPd",
+    "hotel_id": "216",
+    "concepto": "574",
+    "monto": "8678",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-12-06",
+    "referencia": "emzld",
+    "hotel_id": "581",
+    "concepto": "845",
+    "monto": "7803",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-10-10",
+    "referencia": "YMFqI",
+    "hotel_id": "762",
+    "concepto": "840",
+    "monto": "3439",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-12-03",
+    "referencia": "xTtyd",
+    "hotel_id": "882",
+    "concepto": "248",
+    "monto": "8870",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-10-05",
+    "referencia": "Emcyu",
+    "hotel_id": "10",
+    "concepto": "4",
+    "monto": "5588",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-08-29",
+    "referencia": "IlnhV",
+    "hotel_id": "10",
+    "concepto": "172",
+    "monto": "6009",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-09-17",
+    "referencia": "sEBMm",
+    "hotel_id": "701",
+    "concepto": "507",
+    "monto": "8834",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-07-07",
+    "referencia": "OwInS",
+    "hotel_id": "47",
+    "concepto": "392",
+    "monto": "7141",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-07-07",
+    "referencia": "EDiqM",
+    "hotel_id": "392",
+    "concepto": "276",
+    "monto": "8077",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-01-16",
+    "referencia": "fLSql",
+    "hotel_id": "621",
+    "concepto": "666",
+    "monto": "2705",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2013-07-16",
+    "referencia": "NLzwa",
+    "hotel_id": "278",
+    "concepto": "156",
+    "monto": "9622",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-04-05",
+    "referencia": "pRwFP",
+    "hotel_id": "481",
+    "concepto": "557",
+    "monto": "6113",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-05-08",
+    "referencia": "jORfw",
+    "hotel_id": "504",
+    "concepto": "63",
+    "monto": "2353",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-04-13",
+    "referencia": "CbMdV",
+    "hotel_id": "668",
+    "concepto": "850",
+    "monto": "6672",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-02-24",
+    "referencia": "wsVzA",
+    "hotel_id": "936",
+    "concepto": "374",
+    "monto": "5776",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-11-16",
+    "referencia": "DPOPj",
+    "hotel_id": "469",
+    "concepto": "553",
+    "monto": "5914",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-04-07",
+    "referencia": "NYSuo",
+    "hotel_id": "779",
+    "concepto": "99",
+    "monto": "1670",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-01-22",
+    "referencia": "JQPKj",
+    "hotel_id": "727",
+    "concepto": "92",
+    "monto": "9599",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-04-05",
+    "referencia": "utjLv",
+    "hotel_id": "734",
+    "concepto": "944",
+    "monto": "7482",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-06-17",
+    "referencia": "IXpaW",
+    "hotel_id": "689",
+    "concepto": "276",
+    "monto": "5237",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-04-21",
+    "referencia": "qUreU",
+    "hotel_id": "677",
+    "concepto": "607",
+    "monto": "3841",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-12-12",
+    "referencia": "bmBqv",
+    "hotel_id": "825",
+    "concepto": "80",
+    "monto": "7925",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-12-22",
+    "referencia": "DIAEH",
+    "hotel_id": "884",
+    "concepto": "254",
+    "monto": "6305",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-05-07",
+    "referencia": "zPfEi",
+    "hotel_id": "818",
+    "concepto": "16",
+    "monto": "859",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-03-16",
+    "referencia": "gaLZF",
+    "hotel_id": "878",
+    "concepto": "270",
+    "monto": "4068",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-07-17",
+    "referencia": "QaJyb",
+    "hotel_id": "108",
+    "concepto": "425",
+    "monto": "1844",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-10-04",
+    "referencia": "rznCD",
+    "hotel_id": "285",
+    "concepto": "369",
+    "monto": "2340",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-09-20",
+    "referencia": "fZDad",
+    "hotel_id": "367",
+    "concepto": "835",
+    "monto": "9435",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-05-29",
+    "referencia": "OoDUN",
+    "hotel_id": "623",
+    "concepto": "750",
+    "monto": "3292",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-06-28",
+    "referencia": "BImAD",
+    "hotel_id": "808",
+    "concepto": "248",
+    "monto": "6436",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-11-14",
+    "referencia": "WfYrt",
+    "hotel_id": "704",
+    "concepto": "697",
+    "monto": "8084",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-09-03",
+    "referencia": "RAnAt",
+    "hotel_id": "309",
+    "concepto": "429",
+    "monto": "5724",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-12-11",
+    "referencia": "yXWVU",
+    "hotel_id": "374",
+    "concepto": "588",
+    "monto": "8656",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2013-03-18",
+    "referencia": "EpuHh",
+    "hotel_id": "914",
+    "concepto": "829",
+    "monto": "5504",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-07-23",
+    "referencia": "MJMlg",
+    "hotel_id": "923",
+    "concepto": "873",
+    "monto": "1966",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-12-23",
+    "referencia": "rKKDp",
+    "hotel_id": "469",
+    "concepto": "831",
+    "monto": "9500",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-08-29",
+    "referencia": "rxBnA",
+    "hotel_id": "719",
+    "concepto": "664",
+    "monto": "7773",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-12-21",
+    "referencia": "lUdHT",
+    "hotel_id": "678",
+    "concepto": "479",
+    "monto": "4946",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-08-03",
+    "referencia": "YefDT",
+    "hotel_id": "513",
+    "concepto": "976",
+    "monto": "7096",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-11-18",
+    "referencia": "ZGcUZ",
+    "hotel_id": "422",
+    "concepto": "276",
+    "monto": "5746",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-12-25",
+    "referencia": "asJBs",
+    "hotel_id": "843",
+    "concepto": "904",
+    "monto": "6405",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-05-21",
+    "referencia": "QaNCU",
+    "hotel_id": "329",
+    "concepto": "397",
+    "monto": "9713",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-08-03",
+    "referencia": "EjYIw",
+    "hotel_id": "406",
+    "concepto": "299",
+    "monto": "6344",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-08-24",
+    "referencia": "LgzSD",
+    "hotel_id": "705",
+    "concepto": "933",
+    "monto": "3345",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-09-28",
+    "referencia": "BavsY",
+    "hotel_id": "37",
+    "concepto": "959",
+    "monto": "1079",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-04-05",
+    "referencia": "QvNRt",
+    "hotel_id": "367",
+    "concepto": "57",
+    "monto": "5236",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-11-02",
+    "referencia": "Gafjv",
+    "hotel_id": "811",
+    "concepto": "970",
+    "monto": "3315",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-02-09",
+    "referencia": "iyNcc",
+    "hotel_id": "111",
+    "concepto": "227",
+    "monto": "2780",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-05-12",
+    "referencia": "VaZOX",
+    "hotel_id": "701",
+    "concepto": "490",
+    "monto": "1881",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-06-25",
+    "referencia": "wMlru",
+    "hotel_id": "937",
+    "concepto": "331",
+    "monto": "7976",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-12-30",
+    "referencia": "ndwmn",
+    "hotel_id": "589",
+    "concepto": "647",
+    "monto": "1366",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-04-28",
+    "referencia": "qoaex",
+    "hotel_id": "488",
+    "concepto": "946",
+    "monto": "1414",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-04-23",
+    "referencia": "plDdm",
+    "hotel_id": "449",
+    "concepto": "509",
+    "monto": "1543",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-11-22",
+    "referencia": "QFbUD",
+    "hotel_id": "428",
+    "concepto": "854",
+    "monto": "5415",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2017-05-18",
+    "referencia": "BPPEe",
+    "hotel_id": "930",
+    "concepto": "792",
+    "monto": "9952",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-04-27",
+    "referencia": "dIQEF",
+    "hotel_id": "963",
+    "concepto": "544",
+    "monto": "7799",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-01-23",
+    "referencia": "UgKnZ",
+    "hotel_id": "955",
+    "concepto": "610",
+    "monto": "433",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-07-08",
+    "referencia": "iVUoQ",
+    "hotel_id": "687",
+    "concepto": "369",
+    "monto": "8598",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-03-31",
+    "referencia": "MlZeE",
+    "hotel_id": "939",
+    "concepto": "961",
+    "monto": "2002",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2013-05-02",
+    "referencia": "bIsuN",
+    "hotel_id": "70",
+    "concepto": "600",
+    "monto": "2975",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-11-21",
+    "referencia": "wciBf",
+    "hotel_id": "904",
+    "concepto": "900",
+    "monto": "7364",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-07-26",
+    "referencia": "cKrnW",
+    "hotel_id": "919",
+    "concepto": "503",
+    "monto": "9629",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2000-06-26",
+    "referencia": "sockH",
+    "hotel_id": "615",
+    "concepto": "572",
+    "monto": "1700",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-05-25",
+    "referencia": "izqpL",
+    "hotel_id": "857",
+    "concepto": "258",
+    "monto": "1412",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-01-08",
+    "referencia": "NWoxV",
+    "hotel_id": "179",
+    "concepto": "363",
+    "monto": "2445",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-08-02",
+    "referencia": "ugDgY",
+    "hotel_id": "383",
+    "concepto": "355",
+    "monto": "6249",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-09-28",
+    "referencia": "HLyZA",
+    "hotel_id": "455",
+    "concepto": "116",
+    "monto": "9243",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-08-11",
+    "referencia": "GNtGG",
+    "hotel_id": "637",
+    "concepto": "48",
+    "monto": "3805",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-11-19",
+    "referencia": "byoYi",
+    "hotel_id": "544",
+    "concepto": "440",
+    "monto": "2999",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-07-08",
+    "referencia": "nOlYV",
+    "hotel_id": "419",
+    "concepto": "734",
+    "monto": "6391",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-05-28",
+    "referencia": "Mgwue",
+    "hotel_id": "912",
+    "concepto": "891",
+    "monto": "5185",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-02-12",
+    "referencia": "DzWws",
+    "hotel_id": "702",
+    "concepto": "43",
+    "monto": "7736",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-08-21",
+    "referencia": "XoJyz",
+    "hotel_id": "915",
+    "concepto": "446",
+    "monto": "8336",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-08-30",
+    "referencia": "FMSnt",
+    "hotel_id": "373",
+    "concepto": "498",
+    "monto": "1017",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-09-22",
+    "referencia": "koAPV",
+    "hotel_id": "496",
+    "concepto": "915",
+    "monto": "8580",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-02-25",
+    "referencia": "vBGmr",
+    "hotel_id": "883",
+    "concepto": "701",
+    "monto": "3815",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-12-06",
+    "referencia": "VcsUv",
+    "hotel_id": "603",
+    "concepto": "454",
+    "monto": "250",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-04-26",
+    "referencia": "jVXRe",
+    "hotel_id": "537",
+    "concepto": "391",
+    "monto": "4957",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-01-04",
+    "referencia": "SIYgC",
+    "hotel_id": "155",
+    "concepto": "245",
+    "monto": "6028",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-10-15",
+    "referencia": "dPeLP",
+    "hotel_id": "685",
+    "concepto": "666",
+    "monto": "528",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-02-01",
+    "referencia": "ZOLlS",
+    "hotel_id": "102",
+    "concepto": "18",
+    "monto": "9755",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2013-06-08",
+    "referencia": "jSZnI",
+    "hotel_id": "332",
+    "concepto": "354",
+    "monto": "313",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-07-25",
+    "referencia": "UWFCr",
+    "hotel_id": "36",
+    "concepto": "644",
+    "monto": "9312",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2021-09-13",
+    "referencia": "pTUWT",
+    "hotel_id": "546",
+    "concepto": "836",
+    "monto": "4824",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-06-06",
+    "referencia": "Cwntn",
+    "hotel_id": "888",
+    "concepto": "203",
+    "monto": "4719",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-01-12",
+    "referencia": "xezWj",
+    "hotel_id": "425",
+    "concepto": "711",
+    "monto": "7341",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-06-19",
+    "referencia": "LhSlE",
+    "hotel_id": "336",
+    "concepto": "530",
+    "monto": "4901",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-05-11",
+    "referencia": "kuLiV",
+    "hotel_id": "651",
+    "concepto": "563",
+    "monto": "2609",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-01-24",
+    "referencia": "DokGW",
+    "hotel_id": "224",
+    "concepto": "819",
+    "monto": "5375",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-03-05",
+    "referencia": "bHYRa",
+    "hotel_id": "126",
+    "concepto": "921",
+    "monto": "2343",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-08-05",
+    "referencia": "vPmfX",
+    "hotel_id": "297",
+    "concepto": "443",
+    "monto": "6897",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-12-22",
+    "referencia": "uUeSo",
+    "hotel_id": "688",
+    "concepto": "896",
+    "monto": "2582",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-10-25",
+    "referencia": "SHZID",
+    "hotel_id": "153",
+    "concepto": "827",
+    "monto": "4773",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-09-30",
+    "referencia": "sgjDs",
+    "hotel_id": "405",
+    "concepto": "279",
+    "monto": "7088",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-09-26",
+    "referencia": "wgbyY",
+    "hotel_id": "829",
+    "concepto": "228",
+    "monto": "6635",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-05-27",
+    "referencia": "aCHiI",
+    "hotel_id": "23",
+    "concepto": "721",
+    "monto": "3718",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-03-16",
+    "referencia": "YKOvb",
+    "hotel_id": "714",
+    "concepto": "852",
+    "monto": "9194",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-12-24",
+    "referencia": "wbKmo",
+    "hotel_id": "266",
+    "concepto": "731",
+    "monto": "1970",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-08-28",
+    "referencia": "PRPYZ",
+    "hotel_id": "362",
+    "concepto": "173",
+    "monto": "7775",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-09-16",
+    "referencia": "gDVIp",
+    "hotel_id": "673",
+    "concepto": "722",
+    "monto": "6124",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-02-26",
+    "referencia": "qbPYG",
+    "hotel_id": "89",
+    "concepto": "213",
+    "monto": "7171",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-02-25",
+    "referencia": "lBelf",
+    "hotel_id": "431",
+    "concepto": "145",
+    "monto": "2689",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-07-30",
+    "referencia": "aYZhS",
+    "hotel_id": "188",
+    "concepto": "969",
+    "monto": "9038",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-01-14",
+    "referencia": "ojcLw",
+    "hotel_id": "676",
+    "concepto": "371",
+    "monto": "1123",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-12-24",
+    "referencia": "eLOIf",
+    "hotel_id": "961",
+    "concepto": "406",
+    "monto": "2835",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-07-08",
+    "referencia": "UztTN",
+    "hotel_id": "225",
+    "concepto": "967",
+    "monto": "3601",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-05-09",
+    "referencia": "eGztp",
+    "hotel_id": "319",
+    "concepto": "897",
+    "monto": "627",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-10-01",
+    "referencia": "gEvCh",
+    "hotel_id": "117",
+    "concepto": "887",
+    "monto": "4499",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-04-19",
+    "referencia": "XkwYj",
+    "hotel_id": "262",
+    "concepto": "80",
+    "monto": "9281",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-11-11",
+    "referencia": "SGaYJ",
+    "hotel_id": "182",
+    "concepto": "386",
+    "monto": "4641",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-12-27",
+    "referencia": "AEdno",
+    "hotel_id": "66",
+    "concepto": "918",
+    "monto": "8239",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-12-05",
+    "referencia": "KNTqe",
+    "hotel_id": "537",
+    "concepto": "548",
+    "monto": "1154",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-03-07",
+    "referencia": "tFdOa",
+    "hotel_id": "966",
+    "concepto": "28",
+    "monto": "1627",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-11-26",
+    "referencia": "zoEvY",
+    "hotel_id": "380",
+    "concepto": "344",
+    "monto": "8239",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-11-17",
+    "referencia": "xUbEL",
+    "hotel_id": "747",
+    "concepto": "781",
+    "monto": "490",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-07-08",
+    "referencia": "jfnFY",
+    "hotel_id": "408",
+    "concepto": "962",
+    "monto": "9122",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-02-11",
+    "referencia": "sFuqE",
+    "hotel_id": "977",
+    "concepto": "483",
+    "monto": "6336",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-05-01",
+    "referencia": "JhSiD",
+    "hotel_id": "604",
+    "concepto": "717",
+    "monto": "5366",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-04-28",
+    "referencia": "OryGX",
+    "hotel_id": "780",
+    "concepto": "238",
+    "monto": "5689",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-08-06",
+    "referencia": "wSWhP",
+    "hotel_id": "180",
+    "concepto": "464",
+    "monto": "2731",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-03-20",
+    "referencia": "LwBad",
+    "hotel_id": "909",
+    "concepto": "185",
+    "monto": "1748",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-12-10",
+    "referencia": "ypcAb",
+    "hotel_id": "309",
+    "concepto": "310",
+    "monto": "9228",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-03-30",
+    "referencia": "odpkl",
+    "hotel_id": "543",
+    "concepto": "904",
+    "monto": "8341",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-10-31",
+    "referencia": "AqacR",
+    "hotel_id": "233",
+    "concepto": "160",
+    "monto": "6774",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-09-13",
+    "referencia": "ulvCM",
+    "hotel_id": "652",
+    "concepto": "952",
+    "monto": "6947",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-12-31",
+    "referencia": "ZeRfz",
+    "hotel_id": "704",
+    "concepto": "324",
+    "monto": "6405",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-04-18",
+    "referencia": "bKdjd",
+    "hotel_id": "173",
+    "concepto": "711",
+    "monto": "2018",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-02-09",
+    "referencia": "ZHKjs",
+    "hotel_id": "42",
+    "concepto": "224",
+    "monto": "5707",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-03-25",
+    "referencia": "WJRdp",
+    "hotel_id": "764",
+    "concepto": "890",
+    "monto": "323",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-09-13",
+    "referencia": "qlPhL",
+    "hotel_id": "983",
+    "concepto": "822",
+    "monto": "8440",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-05-16",
+    "referencia": "OnWNG",
+    "hotel_id": "897",
+    "concepto": "968",
+    "monto": "7971",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-07-18",
+    "referencia": "wNbnq",
+    "hotel_id": "347",
+    "concepto": "495",
+    "monto": "2307",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-06-17",
+    "referencia": "PFEXz",
+    "hotel_id": "174",
+    "concepto": "231",
+    "monto": "7995",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-04-20",
+    "referencia": "oFFRY",
+    "hotel_id": "110",
+    "concepto": "946",
+    "monto": "7948",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-11-30",
+    "referencia": "oHzVE",
+    "hotel_id": "288",
+    "concepto": "483",
+    "monto": "4403",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-11-21",
+    "referencia": "RIGBA",
+    "hotel_id": "506",
+    "concepto": "695",
+    "monto": "2647",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-11-08",
+    "referencia": "LjNRd",
+    "hotel_id": "436",
+    "concepto": "978",
+    "monto": "6909",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-05-15",
+    "referencia": "jOyYH",
+    "hotel_id": "650",
+    "concepto": "115",
+    "monto": "2811",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-06-13",
+    "referencia": "NjeaP",
+    "hotel_id": "880",
+    "concepto": "20",
+    "monto": "9834",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-08-18",
+    "referencia": "HDAwy",
+    "hotel_id": "47",
+    "concepto": "786",
+    "monto": "4868",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-12-01",
+    "referencia": "TCtpS",
+    "hotel_id": "726",
+    "concepto": "564",
+    "monto": "8861",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-02-21",
+    "referencia": "hkseT",
+    "hotel_id": "628",
+    "concepto": "21",
+    "monto": "5871",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-05-05",
+    "referencia": "dtwJy",
+    "hotel_id": "847",
+    "concepto": "476",
+    "monto": "836",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-12-21",
+    "referencia": "qygtk",
+    "hotel_id": "170",
+    "concepto": "588",
+    "monto": "7336",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-07-15",
+    "referencia": "yVIHI",
+    "hotel_id": "739",
+    "concepto": "55",
+    "monto": "4047",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-01-21",
+    "referencia": "JBgPH",
+    "hotel_id": "791",
+    "concepto": "902",
+    "monto": "8427",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-07-11",
+    "referencia": "okdLY",
+    "hotel_id": "811",
+    "concepto": "206",
+    "monto": "264",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-12-25",
+    "referencia": "oIpel",
+    "hotel_id": "951",
+    "concepto": "901",
+    "monto": "5516",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-08-28",
+    "referencia": "GZxlt",
+    "hotel_id": "274",
+    "concepto": "65",
+    "monto": "1458",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-05-30",
+    "referencia": "tGINn",
+    "hotel_id": "450",
+    "concepto": "809",
+    "monto": "1918",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-11-30",
+    "referencia": "KKxLt",
+    "hotel_id": "257",
+    "concepto": "118",
+    "monto": "2726",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-05-01",
+    "referencia": "yvdQC",
+    "hotel_id": "111",
+    "concepto": "901",
+    "monto": "1680",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-06-30",
+    "referencia": "roQDk",
+    "hotel_id": "181",
+    "concepto": "299",
+    "monto": "9818",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-01-04",
+    "referencia": "WXsJD",
+    "hotel_id": "597",
+    "concepto": "209",
+    "monto": "8687",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2021-09-21",
+    "referencia": "PwQhZ",
+    "hotel_id": "440",
+    "concepto": "556",
+    "monto": "5958",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-08-03",
+    "referencia": "WjxGq",
+    "hotel_id": "36",
+    "concepto": "655",
+    "monto": "8089",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-03-12",
+    "referencia": "jfqaY",
+    "hotel_id": "80",
+    "concepto": "683",
+    "monto": "3638",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-03-06",
+    "referencia": "pFCOu",
+    "hotel_id": "99",
+    "concepto": "206",
+    "monto": "5822",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-10-13",
+    "referencia": "oGzco",
+    "hotel_id": "364",
+    "concepto": "598",
+    "monto": "4246",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-07-19",
+    "referencia": "wJvvG",
+    "hotel_id": "704",
+    "concepto": "327",
+    "monto": "1478",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-09-21",
+    "referencia": "tvsUT",
+    "hotel_id": "255",
+    "concepto": "868",
+    "monto": "1421",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-03-14",
+    "referencia": "jMzoJ",
+    "hotel_id": "194",
+    "concepto": "512",
+    "monto": "9776",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2013-05-26",
+    "referencia": "GPWXi",
+    "hotel_id": "697",
+    "concepto": "690",
+    "monto": "2039",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-10-31",
+    "referencia": "GGZgI",
+    "hotel_id": "385",
+    "concepto": "842",
+    "monto": "8665",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-05-27",
+    "referencia": "BZySZ",
+    "hotel_id": "163",
+    "concepto": "977",
+    "monto": "6291",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-09-16",
+    "referencia": "ohwiX",
+    "hotel_id": "117",
+    "concepto": "871",
+    "monto": "5101",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-08-01",
+    "referencia": "wRghW",
+    "hotel_id": "766",
+    "concepto": "201",
+    "monto": "3755",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-02-27",
+    "referencia": "WZMgb",
+    "hotel_id": "598",
+    "concepto": "649",
+    "monto": "4197",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-12-29",
+    "referencia": "nKzCp",
+    "hotel_id": "134",
+    "concepto": "135",
+    "monto": "8586",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-01-12",
+    "referencia": "PozjV",
+    "hotel_id": "707",
+    "concepto": "888",
+    "monto": "6547",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-01-26",
+    "referencia": "hKweI",
+    "hotel_id": "161",
+    "concepto": "613",
+    "monto": "4676",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-01-27",
+    "referencia": "LFMbB",
+    "hotel_id": "696",
+    "concepto": "866",
+    "monto": "698",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-10-05",
+    "referencia": "pzQGD",
+    "hotel_id": "742",
+    "concepto": "677",
+    "monto": "1683",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-09-19",
+    "referencia": "UNOcz",
+    "hotel_id": "643",
+    "concepto": "130",
+    "monto": "3742",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-04-27",
+    "referencia": "fPsrp",
+    "hotel_id": "672",
+    "concepto": "70",
+    "monto": "7804",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2021-12-22",
+    "referencia": "swkBg",
+    "hotel_id": "320",
+    "concepto": "648",
+    "monto": "9555",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-07-13",
+    "referencia": "LhrFy",
+    "hotel_id": "383",
+    "concepto": "266",
+    "monto": "1190",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-06-05",
+    "referencia": "ydKwY",
+    "hotel_id": "129",
+    "concepto": "456",
+    "monto": "473",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-07-13",
+    "referencia": "XpnQA",
+    "hotel_id": "895",
+    "concepto": "206",
+    "monto": "4179",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-05-24",
+    "referencia": "Irvwd",
+    "hotel_id": "507",
+    "concepto": "607",
+    "monto": "9297",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-02-07",
+    "referencia": "FKTTh",
+    "hotel_id": "41",
+    "concepto": "443",
+    "monto": "9581",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-04-10",
+    "referencia": "xEOPU",
+    "hotel_id": "178",
+    "concepto": "514",
+    "monto": "4398",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2013-08-14",
+    "referencia": "egdnL",
+    "hotel_id": "824",
+    "concepto": "396",
+    "monto": "6259",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-02-25",
+    "referencia": "mRFlX",
+    "hotel_id": "494",
+    "concepto": "250",
+    "monto": "7633",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-06-12",
+    "referencia": "ifbim",
+    "hotel_id": "561",
+    "concepto": "431",
+    "monto": "1473",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-08-20",
+    "referencia": "PqzXD",
+    "hotel_id": "197",
+    "concepto": "213",
+    "monto": "4446",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-03-25",
+    "referencia": "sNKhJ",
+    "hotel_id": "23",
+    "concepto": "60",
+    "monto": "7134",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-03-04",
+    "referencia": "ZvIRl",
+    "hotel_id": "259",
+    "concepto": "312",
+    "monto": "5585",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-04-11",
+    "referencia": "MOEKP",
+    "hotel_id": "978",
+    "concepto": "488",
+    "monto": "4015",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-03-12",
+    "referencia": "aiqbG",
+    "hotel_id": "11",
+    "concepto": "926",
+    "monto": "1348",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-06-22",
+    "referencia": "ssPvb",
+    "hotel_id": "358",
+    "concepto": "742",
+    "monto": "1731",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-09-29",
+    "referencia": "fHYDg",
+    "hotel_id": "609",
+    "concepto": "517",
+    "monto": "424",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-11-24",
+    "referencia": "MgacT",
+    "hotel_id": "440",
+    "concepto": "389",
+    "monto": "3298",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-12-09",
+    "referencia": "vhPZV",
+    "hotel_id": "423",
+    "concepto": "569",
+    "monto": "7540",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-07-24",
+    "referencia": "ooaxx",
+    "hotel_id": "634",
+    "concepto": "202",
+    "monto": "8663",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-04-30",
+    "referencia": "yEtwv",
+    "hotel_id": "482",
+    "concepto": "233",
+    "monto": "4861",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-02-03",
+    "referencia": "CEsCZ",
+    "hotel_id": "928",
+    "concepto": "36",
+    "monto": "1786",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-07-02",
+    "referencia": "sUJAi",
+    "hotel_id": "90",
+    "concepto": "671",
+    "monto": "7391",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-07-22",
+    "referencia": "UtDvW",
+    "hotel_id": "286",
+    "concepto": "97",
+    "monto": "8732",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-07-29",
+    "referencia": "wMNpr",
+    "hotel_id": "407",
+    "concepto": "978",
+    "monto": "2583",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-06-03",
+    "referencia": "fanED",
+    "hotel_id": "190",
+    "concepto": "28",
+    "monto": "644",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-05-23",
+    "referencia": "Bkthv",
+    "hotel_id": "677",
+    "concepto": "911",
+    "monto": "5971",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-07-12",
+    "referencia": "rOAIF",
+    "hotel_id": "724",
+    "concepto": "767",
+    "monto": "6351",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-01-05",
+    "referencia": "OyvYn",
+    "hotel_id": "521",
+    "concepto": "978",
+    "monto": "1523",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-02-23",
+    "referencia": "tgsfY",
+    "hotel_id": "62",
+    "concepto": "485",
+    "monto": "3781",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-06-11",
+    "referencia": "UwBDF",
+    "hotel_id": "479",
+    "concepto": "226",
+    "monto": "9364",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-05-30",
+    "referencia": "wFokg",
+    "hotel_id": "769",
+    "concepto": "111",
+    "monto": "791",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-04-19",
+    "referencia": "gnWMX",
+    "hotel_id": "499",
+    "concepto": "17",
+    "monto": "8860",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-07-04",
+    "referencia": "ZikIS",
+    "hotel_id": "213",
+    "concepto": "535",
+    "monto": "7430",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-10-19",
+    "referencia": "fHhDG",
+    "hotel_id": "570",
+    "concepto": "201",
+    "monto": "5567",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2021-03-06",
+    "referencia": "SJUxB",
+    "hotel_id": "85",
+    "concepto": "664",
+    "monto": "420",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-03-01",
+    "referencia": "AoBXX",
+    "hotel_id": "386",
+    "concepto": "193",
+    "monto": "4051",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2013-01-10",
+    "referencia": "EdOar",
+    "hotel_id": "79",
+    "concepto": "222",
+    "monto": "9010",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-01-26",
+    "referencia": "uDTTW",
+    "hotel_id": "146",
+    "concepto": "692",
+    "monto": "5992",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-06-24",
+    "referencia": "bNLwM",
+    "hotel_id": "905",
+    "concepto": "853",
+    "monto": "8800",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-07-09",
+    "referencia": "pvkgX",
+    "hotel_id": "196",
+    "concepto": "512",
+    "monto": "30",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-01-15",
+    "referencia": "opdMv",
+    "hotel_id": "911",
+    "concepto": "848",
+    "monto": "2593",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-03-29",
+    "referencia": "QimYX",
+    "hotel_id": "571",
+    "concepto": "551",
+    "monto": "9068",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-11-02",
+    "referencia": "Cihnc",
+    "hotel_id": "819",
+    "concepto": "808",
+    "monto": "9492",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-10-24",
+    "referencia": "eymeu",
+    "hotel_id": "491",
+    "concepto": "969",
+    "monto": "7161",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-05-07",
+    "referencia": "jXkWK",
+    "hotel_id": "86",
+    "concepto": "993",
+    "monto": "7853",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-11-22",
+    "referencia": "TEZZD",
+    "hotel_id": "885",
+    "concepto": "179",
+    "monto": "5825",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-12-08",
+    "referencia": "QxJOB",
+    "hotel_id": "363",
+    "concepto": "91",
+    "monto": "301",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2017-09-08",
+    "referencia": "uxlAw",
+    "hotel_id": "844",
+    "concepto": "338",
+    "monto": "4772",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-06-07",
+    "referencia": "NvviR",
+    "hotel_id": "303",
+    "concepto": "12",
+    "monto": "2615",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-02-12",
+    "referencia": "sRlBn",
+    "hotel_id": "851",
+    "concepto": "790",
+    "monto": "8525",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-06-27",
+    "referencia": "freog",
+    "hotel_id": "39",
+    "concepto": "545",
+    "monto": "7987",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-03-19",
+    "referencia": "Itwuz",
+    "hotel_id": "801",
+    "concepto": "931",
+    "monto": "4885",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-06-26",
+    "referencia": "AuIov",
+    "hotel_id": "877",
+    "concepto": "635",
+    "monto": "8271",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-02-12",
+    "referencia": "RqYxq",
+    "hotel_id": "482",
+    "concepto": "586",
+    "monto": "8736",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-03-11",
+    "referencia": "euyhC",
+    "hotel_id": "577",
+    "concepto": "872",
+    "monto": "7026",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-12-22",
+    "referencia": "xjmmv",
+    "hotel_id": "59",
+    "concepto": "134",
+    "monto": "7909",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-10-14",
+    "referencia": "LnNPy",
+    "hotel_id": "882",
+    "concepto": "565",
+    "monto": "9585",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-01-28",
+    "referencia": "NwWZi",
+    "hotel_id": "696",
+    "concepto": "790",
+    "monto": "8647",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-02-28",
+    "referencia": "kRvij",
+    "hotel_id": "156",
+    "concepto": "483",
+    "monto": "2277",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-08-19",
+    "referencia": "YtbjO",
+    "hotel_id": "128",
+    "concepto": "692",
+    "monto": "2602",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-06-17",
+    "referencia": "KcZga",
+    "hotel_id": "595",
+    "concepto": "812",
+    "monto": "7337",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-05-13",
+    "referencia": "impnC",
+    "hotel_id": "253",
+    "concepto": "73",
+    "monto": "5493",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-09-30",
+    "referencia": "IeDkf",
+    "hotel_id": "809",
+    "concepto": "13",
+    "monto": "2511",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-04-03",
+    "referencia": "Suoyw",
+    "hotel_id": "604",
+    "concepto": "487",
+    "monto": "305",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-05-11",
+    "referencia": "YyoaF",
+    "hotel_id": "668",
+    "concepto": "257",
+    "monto": "59",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-02-04",
+    "referencia": "IOyPO",
+    "hotel_id": "79",
+    "concepto": "175",
+    "monto": "2279",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-10-18",
+    "referencia": "XlxOk",
+    "hotel_id": "315",
+    "concepto": "947",
+    "monto": "4029",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-02-02",
+    "referencia": "xkYoP",
+    "hotel_id": "853",
+    "concepto": "636",
+    "monto": "261",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-04-10",
+    "referencia": "msxwl",
+    "hotel_id": "806",
+    "concepto": "616",
+    "monto": "6132",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-10-14",
+    "referencia": "UJOix",
+    "hotel_id": "200",
+    "concepto": "565",
+    "monto": "6252",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-05-31",
+    "referencia": "weJsn",
+    "hotel_id": "270",
+    "concepto": "170",
+    "monto": "8441",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-11-20",
+    "referencia": "ZSigk",
+    "hotel_id": "258",
+    "concepto": "567",
+    "monto": "124",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-09-01",
+    "referencia": "FjVgX",
+    "hotel_id": "895",
+    "concepto": "886",
+    "monto": "9916",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-09-20",
+    "referencia": "XnYeJ",
+    "hotel_id": "907",
+    "concepto": "365",
+    "monto": "5996",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-07-22",
+    "referencia": "FfZGl",
+    "hotel_id": "974",
+    "concepto": "27",
+    "monto": "1408",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-06-03",
+    "referencia": "daoSs",
+    "hotel_id": "869",
+    "concepto": "562",
+    "monto": "9340",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-04-06",
+    "referencia": "FOLBp",
+    "hotel_id": "781",
+    "concepto": "218",
+    "monto": "9194",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-12-08",
+    "referencia": "WGCsj",
+    "hotel_id": "611",
+    "concepto": "3",
+    "monto": "5939",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-04-09",
+    "referencia": "XeIvg",
+    "hotel_id": "192",
+    "concepto": "348",
+    "monto": "4727",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-06-11",
+    "referencia": "qPGMj",
+    "hotel_id": "8",
+    "concepto": "892",
+    "monto": "263",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-01-04",
+    "referencia": "QdMRw",
+    "hotel_id": "935",
+    "concepto": "670",
+    "monto": "7868",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-06-22",
+    "referencia": "nbvjU",
+    "hotel_id": "219",
+    "concepto": "408",
+    "monto": "663",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-11-29",
+    "referencia": "rbKKJ",
+    "hotel_id": "93",
+    "concepto": "799",
+    "monto": "6241",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-09-29",
+    "referencia": "bmAnu",
+    "hotel_id": "491",
+    "concepto": "714",
+    "monto": "7237",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-03-26",
+    "referencia": "SrICv",
+    "hotel_id": "65",
+    "concepto": "17",
+    "monto": "8409",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-02-22",
+    "referencia": "OQXKL",
+    "hotel_id": "167",
+    "concepto": "420",
+    "monto": "6941",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-09-20",
+    "referencia": "FSQUu",
+    "hotel_id": "660",
+    "concepto": "946",
+    "monto": "1422",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-09-30",
+    "referencia": "teLxo",
+    "hotel_id": "702",
+    "concepto": "566",
+    "monto": "8535",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-12-08",
+    "referencia": "xMXzT",
+    "hotel_id": "824",
+    "concepto": "895",
+    "monto": "4490",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-02-05",
+    "referencia": "yeVIm",
+    "hotel_id": "651",
+    "concepto": "377",
+    "monto": "9634",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-08-18",
+    "referencia": "jTnFK",
+    "hotel_id": "388",
+    "concepto": "579",
+    "monto": "585",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-01-01",
+    "referencia": "OnWly",
+    "hotel_id": "457",
+    "concepto": "175",
+    "monto": "3963",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-05-13",
+    "referencia": "SLFFt",
+    "hotel_id": "690",
+    "concepto": "175",
+    "monto": "9151",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-11-13",
+    "referencia": "AlpLZ",
+    "hotel_id": "841",
+    "concepto": "177",
+    "monto": "2349",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-11-02",
+    "referencia": "LVJHt",
+    "hotel_id": "488",
+    "concepto": "732",
+    "monto": "5801",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-04-26",
+    "referencia": "EWAgp",
+    "hotel_id": "159",
+    "concepto": "94",
+    "monto": "6859",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-05-06",
+    "referencia": "UcGIU",
+    "hotel_id": "700",
+    "concepto": "165",
+    "monto": "6799",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-11-22",
+    "referencia": "LZFCv",
+    "hotel_id": "576",
+    "concepto": "41",
+    "monto": "2296",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-08-18",
+    "referencia": "fmERn",
+    "hotel_id": "601",
+    "concepto": "339",
+    "monto": "5366",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-10-08",
+    "referencia": "IGxSC",
+    "hotel_id": "300",
+    "concepto": "797",
+    "monto": "7140",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-10-05",
+    "referencia": "EyfMj",
+    "hotel_id": "805",
+    "concepto": "751",
+    "monto": "697",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-12-14",
+    "referencia": "AMtgx",
+    "hotel_id": "531",
+    "concepto": "559",
+    "monto": "7514",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-10-01",
+    "referencia": "NFWRy",
+    "hotel_id": "288",
+    "concepto": "729",
+    "monto": "690",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-09-14",
+    "referencia": "SnJFZ",
+    "hotel_id": "748",
+    "concepto": "253",
+    "monto": "5264",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-04-18",
+    "referencia": "ZiHmX",
+    "hotel_id": "897",
+    "concepto": "262",
+    "monto": "1460",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-05-22",
+    "referencia": "mBiQw",
+    "hotel_id": "663",
+    "concepto": "165",
+    "monto": "4360",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-06-23",
+    "referencia": "LoAsO",
+    "hotel_id": "280",
+    "concepto": "476",
+    "monto": "2659",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-12-06",
+    "referencia": "zjIgz",
+    "hotel_id": "516",
+    "concepto": "803",
+    "monto": "5282",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-05-01",
+    "referencia": "aZxXd",
+    "hotel_id": "775",
+    "concepto": "799",
+    "monto": "569",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-12-28",
+    "referencia": "AdngU",
+    "hotel_id": "36",
+    "concepto": "734",
+    "monto": "2986",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-05-22",
+    "referencia": "jighQ",
+    "hotel_id": "605",
+    "concepto": "181",
+    "monto": "2404",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-01-10",
+    "referencia": "FymIP",
+    "hotel_id": "598",
+    "concepto": "591",
+    "monto": "2691",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-08-13",
+    "referencia": "jOMWs",
+    "hotel_id": "208",
+    "concepto": "453",
+    "monto": "7157",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-06-11",
+    "referencia": "RRbqS",
+    "hotel_id": "763",
+    "concepto": "167",
+    "monto": "5909",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-07-10",
+    "referencia": "WcCNV",
+    "hotel_id": "938",
+    "concepto": "559",
+    "monto": "2569",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-08-03",
+    "referencia": "qXJpN",
+    "hotel_id": "452",
+    "concepto": "884",
+    "monto": "4104",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-07-05",
+    "referencia": "zQPHI",
+    "hotel_id": "930",
+    "concepto": "300",
+    "monto": "3137",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2000-05-26",
+    "referencia": "IHOez",
+    "hotel_id": "426",
+    "concepto": "29",
+    "monto": "3715",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-07-12",
+    "referencia": "GFChg",
+    "hotel_id": "338",
+    "concepto": "263",
+    "monto": "3015",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-06-22",
+    "referencia": "bxOaB",
+    "hotel_id": "202",
+    "concepto": "886",
+    "monto": "7850",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-12-10",
+    "referencia": "yTMlE",
+    "hotel_id": "894",
+    "concepto": "843",
+    "monto": "6002",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2013-10-17",
+    "referencia": "nboUA",
+    "hotel_id": "661",
+    "concepto": "942",
+    "monto": "9883",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-10-09",
+    "referencia": "jCSfn",
+    "hotel_id": "823",
+    "concepto": "427",
+    "monto": "7013",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-08-21",
+    "referencia": "JJgKK",
+    "hotel_id": "59",
+    "concepto": "156",
+    "monto": "3543",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-01-09",
+    "referencia": "EbAOQ",
+    "hotel_id": "916",
+    "concepto": "908",
+    "monto": "1438",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-04-02",
+    "referencia": "nhSQz",
+    "hotel_id": "535",
+    "concepto": "824",
+    "monto": "8956",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-07-23",
+    "referencia": "lkUwM",
+    "hotel_id": "210",
+    "concepto": "765",
+    "monto": "6547",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2013-04-20",
+    "referencia": "lEHov",
+    "hotel_id": "608",
+    "concepto": "374",
+    "monto": "3769",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-04-21",
+    "referencia": "jJSZj",
+    "hotel_id": "938",
+    "concepto": "232",
+    "monto": "4151",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-07-08",
+    "referencia": "MeHBZ",
+    "hotel_id": "924",
+    "concepto": "752",
+    "monto": "6816",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-08-08",
+    "referencia": "ulrdd",
+    "hotel_id": "885",
+    "concepto": "401",
+    "monto": "1192",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-02-09",
+    "referencia": "JChRM",
+    "hotel_id": "988",
+    "concepto": "165",
+    "monto": "3675",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-07-07",
+    "referencia": "JvNCT",
+    "hotel_id": "410",
+    "concepto": "808",
+    "monto": "4337",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-08-21",
+    "referencia": "IICrK",
+    "hotel_id": "828",
+    "concepto": "424",
+    "monto": "8805",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-05-18",
+    "referencia": "NTlXN",
+    "hotel_id": "89",
+    "concepto": "680",
+    "monto": "5101",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2013-08-16",
+    "referencia": "ENvCE",
+    "hotel_id": "987",
+    "concepto": "725",
+    "monto": "5177",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-07-04",
+    "referencia": "oGjJM",
+    "hotel_id": "377",
+    "concepto": "246",
+    "monto": "8589",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-04-26",
+    "referencia": "RIPfq",
+    "hotel_id": "182",
+    "concepto": "40",
+    "monto": "229",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-08-23",
+    "referencia": "uQzUT",
+    "hotel_id": "404",
+    "concepto": "590",
+    "monto": "9307",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-06-07",
+    "referencia": "HOUgU",
+    "hotel_id": "104",
+    "concepto": "636",
+    "monto": "9284",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-07-29",
+    "referencia": "plHFT",
+    "hotel_id": "456",
+    "concepto": "156",
+    "monto": "9228",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-02-25",
+    "referencia": "qhVvG",
+    "hotel_id": "543",
+    "concepto": "227",
+    "monto": "132",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-12-01",
+    "referencia": "zeOCk",
+    "hotel_id": "547",
+    "concepto": "203",
+    "monto": "9436",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-04-03",
+    "referencia": "tFysT",
+    "hotel_id": "152",
+    "concepto": "263",
+    "monto": "1783",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-07-30",
+    "referencia": "AvvGH",
+    "hotel_id": "483",
+    "concepto": "20",
+    "monto": "5663",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-06-23",
+    "referencia": "NkRsI",
+    "hotel_id": "101",
+    "concepto": "299",
+    "monto": "1424",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-06-16",
+    "referencia": "YkMZL",
+    "hotel_id": "799",
+    "concepto": "160",
+    "monto": "5849",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-09-28",
+    "referencia": "pUKVw",
+    "hotel_id": "132",
+    "concepto": "928",
+    "monto": "8738",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-02-15",
+    "referencia": "rGQOd",
+    "hotel_id": "876",
+    "concepto": "410",
+    "monto": "8987",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-08-30",
+    "referencia": "JPuLl",
+    "hotel_id": "589",
+    "concepto": "358",
+    "monto": "6365",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-03-13",
+    "referencia": "DdgEF",
+    "hotel_id": "895",
+    "concepto": "524",
+    "monto": "7333",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-03-08",
+    "referencia": "aLWUy",
+    "hotel_id": "63",
+    "concepto": "632",
+    "monto": "550",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-01-30",
+    "referencia": "NBALe",
+    "hotel_id": "874",
+    "concepto": "360",
+    "monto": "9654",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-05-21",
+    "referencia": "ityCK",
+    "hotel_id": "640",
+    "concepto": "548",
+    "monto": "5851",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-06-06",
+    "referencia": "osQZq",
+    "hotel_id": "987",
+    "concepto": "572",
+    "monto": "5679",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-10-05",
+    "referencia": "WbukM",
+    "hotel_id": "330",
+    "concepto": "945",
+    "monto": "2071",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-03-04",
+    "referencia": "LWImA",
+    "hotel_id": "596",
+    "concepto": "47",
+    "monto": "660",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-08-14",
+    "referencia": "QsGzY",
+    "hotel_id": "162",
+    "concepto": "481",
+    "monto": "959",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-01-21",
+    "referencia": "JAPbS",
+    "hotel_id": "958",
+    "concepto": "148",
+    "monto": "4016",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-03-02",
+    "referencia": "CPhyD",
+    "hotel_id": "763",
+    "concepto": "562",
+    "monto": "2945",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-10-21",
+    "referencia": "Dwoze",
+    "hotel_id": "984",
+    "concepto": "115",
+    "monto": "4877",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-09-01",
+    "referencia": "PkQob",
+    "hotel_id": "59",
+    "concepto": "871",
+    "monto": "4147",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-07-11",
+    "referencia": "BmeYS",
+    "hotel_id": "127",
+    "concepto": "312",
+    "monto": "3392",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-03-08",
+    "referencia": "nxuII",
+    "hotel_id": "609",
+    "concepto": "548",
+    "monto": "7565",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-05-08",
+    "referencia": "IgxaC",
+    "hotel_id": "451",
+    "concepto": "325",
+    "monto": "6604",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2013-01-05",
+    "referencia": "QVIFu",
+    "hotel_id": "974",
+    "concepto": "902",
+    "monto": "5980",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-03-22",
+    "referencia": "kxwEq",
+    "hotel_id": "630",
+    "concepto": "400",
+    "monto": "6238",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-11-11",
+    "referencia": "INZsR",
+    "hotel_id": "2",
+    "concepto": "885",
+    "monto": "2002",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-10-01",
+    "referencia": "uilYM",
+    "hotel_id": "998",
+    "concepto": "54",
+    "monto": "1174",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-01-05",
+    "referencia": "GlxpR",
+    "hotel_id": "684",
+    "concepto": "928",
+    "monto": "876",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-07-05",
+    "referencia": "XFBzq",
+    "hotel_id": "880",
+    "concepto": "647",
+    "monto": "706",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-03-31",
+    "referencia": "ZSZcH",
+    "hotel_id": "884",
+    "concepto": "244",
+    "monto": "9942",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-01-20",
+    "referencia": "ePXkA",
+    "hotel_id": "741",
+    "concepto": "640",
+    "monto": "6430",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-10-29",
+    "referencia": "CoCxF",
+    "hotel_id": "859",
+    "concepto": "570",
+    "monto": "3307",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-02-03",
+    "referencia": "OBofS",
+    "hotel_id": "154",
+    "concepto": "447",
+    "monto": "150",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-12-16",
+    "referencia": "Sgorl",
+    "hotel_id": "397",
+    "concepto": "344",
+    "monto": "9040",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-03-08",
+    "referencia": "vtRaf",
+    "hotel_id": "556",
+    "concepto": "750",
+    "monto": "3621",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-07-26",
+    "referencia": "Xxnwm",
+    "hotel_id": "687",
+    "concepto": "997",
+    "monto": "2796",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-07-02",
+    "referencia": "fsIho",
+    "hotel_id": "994",
+    "concepto": "626",
+    "monto": "5754",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-10-18",
+    "referencia": "BoLqT",
+    "hotel_id": "338",
+    "concepto": "113",
+    "monto": "7194",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-11-18",
+    "referencia": "FBxEn",
+    "hotel_id": "669",
+    "concepto": "962",
+    "monto": "6734",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-10-05",
+    "referencia": "GkeWh",
+    "hotel_id": "250",
+    "concepto": "854",
+    "monto": "3556",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-07-02",
+    "referencia": "Dupof",
+    "hotel_id": "90",
+    "concepto": "580",
+    "monto": "7841",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-01-04",
+    "referencia": "rBWeY",
+    "hotel_id": "100",
+    "concepto": "667",
+    "monto": "3394",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-08-01",
+    "referencia": "tIeOk",
+    "hotel_id": "801",
+    "concepto": "153",
+    "monto": "8488",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-08-05",
+    "referencia": "bHMvf",
+    "hotel_id": "340",
+    "concepto": "799",
+    "monto": "6414",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-07-29",
+    "referencia": "HLuqB",
+    "hotel_id": "841",
+    "concepto": "73",
+    "monto": "8161",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-07-09",
+    "referencia": "NLtyT",
+    "hotel_id": "568",
+    "concepto": "170",
+    "monto": "8085",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-02-09",
+    "referencia": "kTJYe",
+    "hotel_id": "593",
+    "concepto": "213",
+    "monto": "182",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-10-10",
+    "referencia": "GzYSO",
+    "hotel_id": "245",
+    "concepto": "705",
+    "monto": "1155",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-04-06",
+    "referencia": "FGGne",
+    "hotel_id": "845",
+    "concepto": "185",
+    "monto": "98",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-05-10",
+    "referencia": "xizRN",
+    "hotel_id": "895",
+    "concepto": "677",
+    "monto": "3386",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-06-08",
+    "referencia": "rkEbw",
+    "hotel_id": "686",
+    "concepto": "598",
+    "monto": "3088",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-05-28",
+    "referencia": "JFqbf",
+    "hotel_id": "149",
+    "concepto": "516",
+    "monto": "7902",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2017-06-25",
+    "referencia": "mzCnk",
+    "hotel_id": "396",
+    "concepto": "183",
+    "monto": "2525",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-11-26",
+    "referencia": "YciTq",
+    "hotel_id": "943",
+    "concepto": "551",
+    "monto": "2666",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-12-02",
+    "referencia": "hUoxO",
+    "hotel_id": "956",
+    "concepto": "162",
+    "monto": "1780",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-07-01",
+    "referencia": "bTKfY",
+    "hotel_id": "835",
+    "concepto": "8",
+    "monto": "9311",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2000-07-06",
+    "referencia": "gpTDe",
+    "hotel_id": "162",
+    "concepto": "803",
+    "monto": "5884",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-07-08",
+    "referencia": "Lqdsb",
+    "hotel_id": "909",
+    "concepto": "134",
+    "monto": "6036",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-08-21",
+    "referencia": "amjvh",
+    "hotel_id": "633",
+    "concepto": "650",
+    "monto": "1550",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-07-14",
+    "referencia": "RJsCp",
+    "hotel_id": "281",
+    "concepto": "37",
+    "monto": "252",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-06-15",
+    "referencia": "FqWdF",
+    "hotel_id": "746",
+    "concepto": "583",
+    "monto": "3451",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-02-12",
+    "referencia": "ANeZN",
+    "hotel_id": "520",
+    "concepto": "693",
+    "monto": "2361",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-02-25",
+    "referencia": "erXqJ",
+    "hotel_id": "718",
+    "concepto": "5",
+    "monto": "6411",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-03-31",
+    "referencia": "Rffky",
+    "hotel_id": "939",
+    "concepto": "527",
+    "monto": "7599",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-07-11",
+    "referencia": "MmlAr",
+    "hotel_id": "249",
+    "concepto": "466",
+    "monto": "7812",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-08-20",
+    "referencia": "vcdWi",
+    "hotel_id": "95",
+    "concepto": "945",
+    "monto": "2214",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-08-22",
+    "referencia": "FSbPW",
+    "hotel_id": "401",
+    "concepto": "743",
+    "monto": "4791",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-03-20",
+    "referencia": "FvVJP",
+    "hotel_id": "702",
+    "concepto": "103",
+    "monto": "5645",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-10-15",
+    "referencia": "Owhok",
+    "hotel_id": "141",
+    "concepto": "152",
+    "monto": "4753",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-10-25",
+    "referencia": "Yyrou",
+    "hotel_id": "128",
+    "concepto": "237",
+    "monto": "6268",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2000-04-30",
+    "referencia": "riqIa",
+    "hotel_id": "392",
+    "concepto": "177",
+    "monto": "6652",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-02-19",
+    "referencia": "rMMZk",
+    "hotel_id": "233",
+    "concepto": "507",
+    "monto": "5214",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-03-28",
+    "referencia": "hZWyF",
+    "hotel_id": "72",
+    "concepto": "972",
+    "monto": "8692",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-12-23",
+    "referencia": "ZEBbl",
+    "hotel_id": "362",
+    "concepto": "39",
+    "monto": "8753",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2013-12-19",
+    "referencia": "GCbUW",
+    "hotel_id": "252",
+    "concepto": "240",
+    "monto": "2237",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-12-09",
+    "referencia": "mNQBS",
+    "hotel_id": "720",
+    "concepto": "371",
+    "monto": "9992",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-04-11",
+    "referencia": "fOGTt",
+    "hotel_id": "138",
+    "concepto": "56",
+    "monto": "5638",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2021-05-20",
+    "referencia": "EkvVL",
+    "hotel_id": "269",
+    "concepto": "102",
+    "monto": "6983",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-04-21",
+    "referencia": "cWIvX",
+    "hotel_id": "902",
+    "concepto": "285",
+    "monto": "7433",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-04-14",
+    "referencia": "jFvbO",
+    "hotel_id": "247",
+    "concepto": "279",
+    "monto": "3993",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-02-05",
+    "referencia": "gQGYX",
+    "hotel_id": "668",
+    "concepto": "744",
+    "monto": "8840",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-05-11",
+    "referencia": "kMyHn",
+    "hotel_id": "134",
+    "concepto": "605",
+    "monto": "3363",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-12-19",
+    "referencia": "LfzHC",
+    "hotel_id": "262",
+    "concepto": "184",
+    "monto": "6074",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-01-15",
+    "referencia": "LmzWM",
+    "hotel_id": "218",
+    "concepto": "840",
+    "monto": "2552",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-08-17",
+    "referencia": "RVtsN",
+    "hotel_id": "817",
+    "concepto": "227",
+    "monto": "2329",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2013-06-08",
+    "referencia": "jCzvh",
+    "hotel_id": "499",
+    "concepto": "517",
+    "monto": "8809",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-06-23",
+    "referencia": "UAknO",
+    "hotel_id": "449",
+    "concepto": "122",
+    "monto": "7168",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-01-07",
+    "referencia": "pJZRq",
+    "hotel_id": "538",
+    "concepto": "408",
+    "monto": "2722",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-08-13",
+    "referencia": "WXneU",
+    "hotel_id": "796",
+    "concepto": "959",
+    "monto": "7424",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-02-02",
+    "referencia": "fMTFK",
+    "hotel_id": "552",
+    "concepto": "687",
+    "monto": "6044",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-06-11",
+    "referencia": "FvAEu",
+    "hotel_id": "732",
+    "concepto": "880",
+    "monto": "741",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-12-16",
+    "referencia": "CwSez",
+    "hotel_id": "870",
+    "concepto": "757",
+    "monto": "5672",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-11-11",
+    "referencia": "cooQL",
+    "hotel_id": "226",
+    "concepto": "873",
+    "monto": "8785",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-06-17",
+    "referencia": "aHEiK",
+    "hotel_id": "156",
+    "concepto": "6",
+    "monto": "5554",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-01-29",
+    "referencia": "EMhId",
+    "hotel_id": "477",
+    "concepto": "261",
+    "monto": "7647",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-08-04",
+    "referencia": "hPsMW",
+    "hotel_id": "454",
+    "concepto": "333",
+    "monto": "2758",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-05-14",
+    "referencia": "gTkue",
+    "hotel_id": "726",
+    "concepto": "310",
+    "monto": "1838",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-10-22",
+    "referencia": "SuIMN",
+    "hotel_id": "467",
+    "concepto": "644",
+    "monto": "485",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-09-30",
+    "referencia": "jZqXo",
+    "hotel_id": "657",
+    "concepto": "9",
+    "monto": "5429",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-12-31",
+    "referencia": "CsXCg",
+    "hotel_id": "404",
+    "concepto": "774",
+    "monto": "4130",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-01-07",
+    "referencia": "mUlJR",
+    "hotel_id": "771",
+    "concepto": "200",
+    "monto": "2823",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-05-14",
+    "referencia": "gCghh",
+    "hotel_id": "443",
+    "concepto": "181",
+    "monto": "746",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-05-08",
+    "referencia": "fJnys",
+    "hotel_id": "277",
+    "concepto": "422",
+    "monto": "1773",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-09-26",
+    "referencia": "OIsCn",
+    "hotel_id": "523",
+    "concepto": "180",
+    "monto": "7414",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-06-12",
+    "referencia": "wzPFY",
+    "hotel_id": "34",
+    "concepto": "362",
+    "monto": "4636",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-05-27",
+    "referencia": "akkJG",
+    "hotel_id": "605",
+    "concepto": "79",
+    "monto": "3120",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-12-31",
+    "referencia": "LNxLc",
+    "hotel_id": "256",
+    "concepto": "128",
+    "monto": "9610",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-09-22",
+    "referencia": "gNZsn",
+    "hotel_id": "56",
+    "concepto": "739",
+    "monto": "3261",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2000-03-08",
+    "referencia": "YUzAz",
+    "hotel_id": "768",
+    "concepto": "863",
+    "monto": "2616",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-09-20",
+    "referencia": "ulfbf",
+    "hotel_id": "916",
+    "concepto": "350",
+    "monto": "4147",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-04-16",
+    "referencia": "wuggi",
+    "hotel_id": "949",
+    "concepto": "878",
+    "monto": "7314",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-03-28",
+    "referencia": "uElbU",
+    "hotel_id": "313",
+    "concepto": "736",
+    "monto": "3908",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-10-08",
+    "referencia": "nPCdT",
+    "hotel_id": "328",
+    "concepto": "115",
+    "monto": "5068",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-03-01",
+    "referencia": "tFqPO",
+    "hotel_id": "894",
+    "concepto": "878",
+    "monto": "1492",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-08-01",
+    "referencia": "Ngjql",
+    "hotel_id": "447",
+    "concepto": "103",
+    "monto": "9574",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-04-25",
+    "referencia": "JsLky",
+    "hotel_id": "51",
+    "concepto": "746",
+    "monto": "9967",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-10-11",
+    "referencia": "IFJlV",
+    "hotel_id": "318",
+    "concepto": "873",
+    "monto": "5389",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-04-05",
+    "referencia": "nQfLb",
+    "hotel_id": "698",
+    "concepto": "388",
+    "monto": "8949",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-10-27",
+    "referencia": "kWSVg",
+    "hotel_id": "175",
+    "concepto": "54",
+    "monto": "5363",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-06-08",
+    "referencia": "YhGoW",
+    "hotel_id": "929",
+    "concepto": "849",
+    "monto": "6818",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-12-22",
+    "referencia": "XwKqw",
+    "hotel_id": "304",
+    "concepto": "403",
+    "monto": "482",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-07-13",
+    "referencia": "CUQXT",
+    "hotel_id": "640",
+    "concepto": "55",
+    "monto": "2083",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-09-21",
+    "referencia": "HkfiP",
+    "hotel_id": "845",
+    "concepto": "733",
+    "monto": "2040",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-11-23",
+    "referencia": "lwBfa",
+    "hotel_id": "856",
+    "concepto": "9",
+    "monto": "8844",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-11-12",
+    "referencia": "BBxDn",
+    "hotel_id": "154",
+    "concepto": "663",
+    "monto": "5781",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-11-24",
+    "referencia": "MuAZr",
+    "hotel_id": "18",
+    "concepto": "107",
+    "monto": "8772",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-10-27",
+    "referencia": "zLkHN",
+    "hotel_id": "566",
+    "concepto": "403",
+    "monto": "8926",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-11-24",
+    "referencia": "BkZbZ",
+    "hotel_id": "702",
+    "concepto": "341",
+    "monto": "7525",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-08-27",
+    "referencia": "nbrnK",
+    "hotel_id": "108",
+    "concepto": "464",
+    "monto": "7936",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-07-12",
+    "referencia": "EeGme",
+    "hotel_id": "371",
+    "concepto": "848",
+    "monto": "2535",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-01-14",
+    "referencia": "lZrwe",
+    "hotel_id": "921",
+    "concepto": "499",
+    "monto": "9904",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-01-25",
+    "referencia": "oloci",
+    "hotel_id": "601",
+    "concepto": "153",
+    "monto": "8298",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-02-22",
+    "referencia": "IhrRa",
+    "hotel_id": "601",
+    "concepto": "723",
+    "monto": "8496",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-10-14",
+    "referencia": "AFXSA",
+    "hotel_id": "314",
+    "concepto": "35",
+    "monto": "8732",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-12-26",
+    "referencia": "bfHDR",
+    "hotel_id": "104",
+    "concepto": "864",
+    "monto": "3799",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-01-22",
+    "referencia": "WkEpw",
+    "hotel_id": "363",
+    "concepto": "138",
+    "monto": "9875",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-11-04",
+    "referencia": "hxqxr",
+    "hotel_id": "310",
+    "concepto": "683",
+    "monto": "3579",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-08-16",
+    "referencia": "niDfS",
+    "hotel_id": "500",
+    "concepto": "403",
+    "monto": "2832",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-05-02",
+    "referencia": "dwifS",
+    "hotel_id": "557",
+    "concepto": "705",
+    "monto": "5698",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-02-11",
+    "referencia": "FcKuw",
+    "hotel_id": "265",
+    "concepto": "833",
+    "monto": "3138",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-07-04",
+    "referencia": "AjkYp",
+    "hotel_id": "338",
+    "concepto": "980",
+    "monto": "8204",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-11-05",
+    "referencia": "PODkY",
+    "hotel_id": "569",
+    "concepto": "886",
+    "monto": "9597",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-06-08",
+    "referencia": "jRSWs",
+    "hotel_id": "949",
+    "concepto": "243",
+    "monto": "1644",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-12-07",
+    "referencia": "OfIEU",
+    "hotel_id": "620",
+    "concepto": "257",
+    "monto": "2551",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-05-26",
+    "referencia": "nmEFQ",
+    "hotel_id": "646",
+    "concepto": "905",
+    "monto": "5281",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-01-10",
+    "referencia": "UwDOW",
+    "hotel_id": "732",
+    "concepto": "180",
+    "monto": "531",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2017-02-28",
+    "referencia": "NwTZc",
+    "hotel_id": "459",
+    "concepto": "490",
+    "monto": "773",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-08-27",
+    "referencia": "fFvsd",
+    "hotel_id": "787",
+    "concepto": "745",
+    "monto": "3866",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-03-25",
+    "referencia": "iojuJ",
+    "hotel_id": "809",
+    "concepto": "582",
+    "monto": "6669",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-05-15",
+    "referencia": "UVtKe",
+    "hotel_id": "72",
+    "concepto": "793",
+    "monto": "3683",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-06-30",
+    "referencia": "vbBhK",
+    "hotel_id": "595",
+    "concepto": "272",
+    "monto": "8485",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-02-13",
+    "referencia": "boieR",
+    "hotel_id": "17",
+    "concepto": "83",
+    "monto": "7253",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-02-06",
+    "referencia": "LeAdm",
+    "hotel_id": "741",
+    "concepto": "521",
+    "monto": "7795",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-01-10",
+    "referencia": "pOgLD",
+    "hotel_id": "318",
+    "concepto": "46",
+    "monto": "3185",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-10-27",
+    "referencia": "YTHOI",
+    "hotel_id": "421",
+    "concepto": "670",
+    "monto": "5793",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-05-03",
+    "referencia": "umBvn",
+    "hotel_id": "101",
+    "concepto": "67",
+    "monto": "560",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-07-15",
+    "referencia": "GWyDw",
+    "hotel_id": "391",
+    "concepto": "637",
+    "monto": "5873",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-01-29",
+    "referencia": "IbIbx",
+    "hotel_id": "941",
+    "concepto": "862",
+    "monto": "8546",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-05-14",
+    "referencia": "SMcTn",
+    "hotel_id": "474",
+    "concepto": "726",
+    "monto": "6832",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-03-24",
+    "referencia": "eQiCM",
+    "hotel_id": "140",
+    "concepto": "607",
+    "monto": "3523",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-01-06",
+    "referencia": "OTxme",
+    "hotel_id": "752",
+    "concepto": "435",
+    "monto": "5783",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-03-01",
+    "referencia": "BPuHv",
+    "hotel_id": "823",
+    "concepto": "331",
+    "monto": "6812",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-12-02",
+    "referencia": "IqrEu",
+    "hotel_id": "846",
+    "concepto": "945",
+    "monto": "6956",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-11-28",
+    "referencia": "qMIbr",
+    "hotel_id": "263",
+    "concepto": "260",
+    "monto": "3341",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-12-27",
+    "referencia": "iowpj",
+    "hotel_id": "33",
+    "concepto": "64",
+    "monto": "77",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-06-16",
+    "referencia": "biDlW",
+    "hotel_id": "704",
+    "concepto": "598",
+    "monto": "2677",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-12-19",
+    "referencia": "eWfcO",
+    "hotel_id": "694",
+    "concepto": "223",
+    "monto": "1955",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-10-13",
+    "referencia": "ITBKV",
+    "hotel_id": "364",
+    "concepto": "971",
+    "monto": "4146",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-08-27",
+    "referencia": "NPQSU",
+    "hotel_id": "960",
+    "concepto": "132",
+    "monto": "3673",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-07-30",
+    "referencia": "SPvAB",
+    "hotel_id": "494",
+    "concepto": "556",
+    "monto": "6690",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-01-27",
+    "referencia": "cHVKE",
+    "hotel_id": "218",
+    "concepto": "599",
+    "monto": "8331",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-04-06",
+    "referencia": "DmzfU",
+    "hotel_id": "299",
+    "concepto": "809",
+    "monto": "5538",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-07-09",
+    "referencia": "vpnss",
+    "hotel_id": "284",
+    "concepto": "368",
+    "monto": "9258",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-05-13",
+    "referencia": "EuTyC",
+    "hotel_id": "108",
+    "concepto": "248",
+    "monto": "4069",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-08-26",
+    "referencia": "cMVGN",
+    "hotel_id": "844",
+    "concepto": "949",
+    "monto": "8703",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-06-11",
+    "referencia": "xOOTS",
+    "hotel_id": "764",
+    "concepto": "654",
+    "monto": "1009",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-07-26",
+    "referencia": "sjqdp",
+    "hotel_id": "174",
+    "concepto": "401",
+    "monto": "7319",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2017-01-02",
+    "referencia": "HVhzF",
+    "hotel_id": "917",
+    "concepto": "939",
+    "monto": "726",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-04-25",
+    "referencia": "NgbAQ",
+    "hotel_id": "954",
+    "concepto": "393",
+    "monto": "1517",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-08-21",
+    "referencia": "ZNpOF",
+    "hotel_id": "196",
+    "concepto": "673",
+    "monto": "1186",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-01-22",
+    "referencia": "hYDkT",
+    "hotel_id": "543",
+    "concepto": "316",
+    "monto": "9064",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-11-25",
+    "referencia": "pDdSZ",
+    "hotel_id": "246",
+    "concepto": "212",
+    "monto": "9527",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-05-14",
+    "referencia": "HZKWm",
+    "hotel_id": "36",
+    "concepto": "464",
+    "monto": "9171",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-04-05",
+    "referencia": "KwaBn",
+    "hotel_id": "868",
+    "concepto": "704",
+    "monto": "4357",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-03-12",
+    "referencia": "XbDzC",
+    "hotel_id": "25",
+    "concepto": "373",
+    "monto": "4122",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-07-24",
+    "referencia": "cAEAb",
+    "hotel_id": "663",
+    "concepto": "507",
+    "monto": "931",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-12-19",
+    "referencia": "jHLRk",
+    "hotel_id": "326",
+    "concepto": "214",
+    "monto": "7692",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-12-18",
+    "referencia": "DcjJk",
+    "hotel_id": "93",
+    "concepto": "740",
+    "monto": "261",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-12-03",
+    "referencia": "KhvnQ",
+    "hotel_id": "50",
+    "concepto": "323",
+    "monto": "7233",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-10-31",
+    "referencia": "bAqXY",
+    "hotel_id": "164",
+    "concepto": "34",
+    "monto": "669",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-10-31",
+    "referencia": "EszIC",
+    "hotel_id": "756",
+    "concepto": "611",
+    "monto": "6469",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-09-17",
+    "referencia": "nQPYy",
+    "hotel_id": "612",
+    "concepto": "927",
+    "monto": "8416",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-03-30",
+    "referencia": "kWbYE",
+    "hotel_id": "172",
+    "concepto": "769",
+    "monto": "7990",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-07-29",
+    "referencia": "gVZAX",
+    "hotel_id": "939",
+    "concepto": "749",
+    "monto": "1313",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2000-08-09",
+    "referencia": "GgXUV",
+    "hotel_id": "717",
+    "concepto": "66",
+    "monto": "282",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-06-28",
+    "referencia": "FQjwg",
+    "hotel_id": "703",
+    "concepto": "541",
+    "monto": "2469",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-05-16",
+    "referencia": "wHTfc",
+    "hotel_id": "47",
+    "concepto": "250",
+    "monto": "6061",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-10-10",
+    "referencia": "HDyYR",
+    "hotel_id": "652",
+    "concepto": "298",
+    "monto": "3077",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-05-03",
+    "referencia": "RpIHK",
+    "hotel_id": "666",
+    "concepto": "544",
+    "monto": "544",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-05-13",
+    "referencia": "dZzGy",
+    "hotel_id": "702",
+    "concepto": "503",
+    "monto": "8721",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-03-25",
+    "referencia": "UvqGU",
+    "hotel_id": "942",
+    "concepto": "818",
+    "monto": "820",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-12-28",
+    "referencia": "aoQSQ",
+    "hotel_id": "654",
+    "concepto": "536",
+    "monto": "3859",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-03-13",
+    "referencia": "ptabU",
+    "hotel_id": "344",
+    "concepto": "798",
+    "monto": "775",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-03-10",
+    "referencia": "OSVld",
+    "hotel_id": "884",
+    "concepto": "698",
+    "monto": "3253",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-02-08",
+    "referencia": "pozlx",
+    "hotel_id": "814",
+    "concepto": "723",
+    "monto": "2160",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-02-16",
+    "referencia": "ldheG",
+    "hotel_id": "638",
+    "concepto": "908",
+    "monto": "1241",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-03-30",
+    "referencia": "WOPRZ",
+    "hotel_id": "762",
+    "concepto": "899",
+    "monto": "3931",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2017-11-18",
+    "referencia": "PqWdO",
+    "hotel_id": "334",
+    "concepto": "559",
+    "monto": "3258",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-03-30",
+    "referencia": "xssDB",
+    "hotel_id": "32",
+    "concepto": "552",
+    "monto": "8871",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-08-10",
+    "referencia": "vcQqh",
+    "hotel_id": "274",
+    "concepto": "172",
+    "monto": "1027",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-06-18",
+    "referencia": "zTEwR",
+    "hotel_id": "169",
+    "concepto": "471",
+    "monto": "9198",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-03-06",
+    "referencia": "zPbyQ",
+    "hotel_id": "1",
+    "concepto": "787",
+    "monto": "7613",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-12-29",
+    "referencia": "TekNy",
+    "hotel_id": "252",
+    "concepto": "720",
+    "monto": "3544",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-10-16",
+    "referencia": "rbGyn",
+    "hotel_id": "336",
+    "concepto": "419",
+    "monto": "2060",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-06-18",
+    "referencia": "tmBFM",
+    "hotel_id": "525",
+    "concepto": "854",
+    "monto": "8263",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-07-24",
+    "referencia": "KItwW",
+    "hotel_id": "142",
+    "concepto": "34",
+    "monto": "4663",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-05-25",
+    "referencia": "tzMKE",
+    "hotel_id": "586",
+    "concepto": "802",
+    "monto": "1029",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-03-29",
+    "referencia": "dqDmG",
+    "hotel_id": "235",
+    "concepto": "457",
+    "monto": "472",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-07-06",
+    "referencia": "vFuWs",
+    "hotel_id": "707",
+    "concepto": "531",
+    "monto": "9796",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-06-08",
+    "referencia": "kqVSi",
+    "hotel_id": "520",
+    "concepto": "523",
+    "monto": "174",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-08-09",
+    "referencia": "vjLRv",
+    "hotel_id": "615",
+    "concepto": "169",
+    "monto": "5829",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-06-27",
+    "referencia": "bQizp",
+    "hotel_id": "840",
+    "concepto": "495",
+    "monto": "8272",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-04-16",
+    "referencia": "vFoRe",
+    "hotel_id": "350",
+    "concepto": "177",
+    "monto": "4344",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-02-04",
+    "referencia": "HemdJ",
+    "hotel_id": "549",
+    "concepto": "625",
+    "monto": "2436",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-07-29",
+    "referencia": "CCvOy",
+    "hotel_id": "149",
+    "concepto": "410",
+    "monto": "4555",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2013-12-21",
+    "referencia": "IrLBt",
+    "hotel_id": "836",
+    "concepto": "307",
+    "monto": "5971",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-03-20",
+    "referencia": "hsBVg",
+    "hotel_id": "978",
+    "concepto": "623",
+    "monto": "802",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-11-28",
+    "referencia": "ySzWp",
+    "hotel_id": "531",
+    "concepto": "786",
+    "monto": "1865",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-10-09",
+    "referencia": "XcKiJ",
+    "hotel_id": "937",
+    "concepto": "476",
+    "monto": "57",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-01-26",
+    "referencia": "azWrP",
+    "hotel_id": "888",
+    "concepto": "10",
+    "monto": "1610",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-10-17",
+    "referencia": "felbY",
+    "hotel_id": "512",
+    "concepto": "864",
+    "monto": "1560",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-04-29",
+    "referencia": "hPMBK",
+    "hotel_id": "393",
+    "concepto": "954",
+    "monto": "1147",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-06-09",
+    "referencia": "KoUSE",
+    "hotel_id": "624",
+    "concepto": "885",
+    "monto": "5235",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-10-01",
+    "referencia": "PUtxl",
+    "hotel_id": "955",
+    "concepto": "846",
+    "monto": "5142",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-06-12",
+    "referencia": "smoRh",
+    "hotel_id": "609",
+    "concepto": "616",
+    "monto": "4977",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-01-12",
+    "referencia": "SZcav",
+    "hotel_id": "774",
+    "concepto": "981",
+    "monto": "6343",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2013-08-15",
+    "referencia": "rEvjH",
+    "hotel_id": "861",
+    "concepto": "602",
+    "monto": "2795",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-11-07",
+    "referencia": "FCEnW",
+    "hotel_id": "911",
+    "concepto": "608",
+    "monto": "687",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-12-28",
+    "referencia": "yzzxk",
+    "hotel_id": "634",
+    "concepto": "784",
+    "monto": "8552",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-12-05",
+    "referencia": "hdCYu",
+    "hotel_id": "761",
+    "concepto": "102",
+    "monto": "8361",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-12-05",
+    "referencia": "Tpdjx",
+    "hotel_id": "671",
+    "concepto": "747",
+    "monto": "8679",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-11-21",
+    "referencia": "WJxYi",
+    "hotel_id": "212",
+    "concepto": "887",
+    "monto": "5208",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-12-26",
+    "referencia": "iMlqc",
+    "hotel_id": "419",
+    "concepto": "442",
+    "monto": "7838",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-04-17",
+    "referencia": "RqCsV",
+    "hotel_id": "924",
+    "concepto": "416",
+    "monto": "3474",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-09-29",
+    "referencia": "slxFE",
+    "hotel_id": "112",
+    "concepto": "645",
+    "monto": "656",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-07-24",
+    "referencia": "AeQsc",
+    "hotel_id": "897",
+    "concepto": "770",
+    "monto": "5291",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2021-07-25",
+    "referencia": "jxYNV",
+    "hotel_id": "147",
+    "concepto": "643",
+    "monto": "6275",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-04-28",
+    "referencia": "MEIpE",
+    "hotel_id": "363",
+    "concepto": "921",
+    "monto": "5798",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2023-03-25",
+    "referencia": "DOqjN",
+    "hotel_id": "547",
+    "concepto": "425",
+    "monto": "2386",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-07-17",
+    "referencia": "AEMEX",
+    "hotel_id": "183",
+    "concepto": "223",
+    "monto": "8371",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-01-12",
+    "referencia": "ZcHKj",
+    "hotel_id": "205",
+    "concepto": "876",
+    "monto": "1837",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-02-25",
+    "referencia": "rmfpL",
+    "hotel_id": "528",
+    "concepto": "933",
+    "monto": "5465",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-01-02",
+    "referencia": "DgUhK",
+    "hotel_id": "885",
+    "concepto": "138",
+    "monto": "1780",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-01-31",
+    "referencia": "kBihq",
+    "hotel_id": "637",
+    "concepto": "210",
+    "monto": "3508",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-07-15",
+    "referencia": "nQEoQ",
+    "hotel_id": "941",
+    "concepto": "196",
+    "monto": "3863",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-03-02",
+    "referencia": "GMSve",
+    "hotel_id": "974",
+    "concepto": "914",
+    "monto": "5335",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-01-22",
+    "referencia": "vJmcu",
+    "hotel_id": "669",
+    "concepto": "678",
+    "monto": "4025",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-05-13",
+    "referencia": "mKJED",
+    "hotel_id": "91",
+    "concepto": "349",
+    "monto": "7035",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-03-17",
+    "referencia": "vxvvy",
+    "hotel_id": "88",
+    "concepto": "55",
+    "monto": "8847",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-12-28",
+    "referencia": "PGJFj",
+    "hotel_id": "865",
+    "concepto": "770",
+    "monto": "8365",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-11-28",
+    "referencia": "xwQWW",
+    "hotel_id": "862",
+    "concepto": "65",
+    "monto": "6512",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-09-01",
+    "referencia": "vQScK",
+    "hotel_id": "179",
+    "concepto": "915",
+    "monto": "9963",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-03-20",
+    "referencia": "UedPY",
+    "hotel_id": "318",
+    "concepto": "68",
+    "monto": "8638",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-01-10",
+    "referencia": "JqTkN",
+    "hotel_id": "491",
+    "concepto": "102",
+    "monto": "1532",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-04-29",
+    "referencia": "eaqQn",
+    "hotel_id": "10",
+    "concepto": "155",
+    "monto": "4977",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-11-29",
+    "referencia": "Snuls",
+    "hotel_id": "527",
+    "concepto": "599",
+    "monto": "1284",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-04-27",
+    "referencia": "cSWzI",
+    "hotel_id": "636",
+    "concepto": "568",
+    "monto": "5203",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-07-18",
+    "referencia": "RfEzw",
+    "hotel_id": "310",
+    "concepto": "324",
+    "monto": "7395",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-06-15",
+    "referencia": "ukBHB",
+    "hotel_id": "421",
+    "concepto": "648",
+    "monto": "1927",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-09-18",
+    "referencia": "vrYFi",
+    "hotel_id": "206",
+    "concepto": "811",
+    "monto": "4226",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-01-16",
+    "referencia": "OUzPm",
+    "hotel_id": "664",
+    "concepto": "846",
+    "monto": "5250",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-08-31",
+    "referencia": "CCPiV",
+    "hotel_id": "996",
+    "concepto": "342",
+    "monto": "9364",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-11-30",
+    "referencia": "FIiql",
+    "hotel_id": "677",
+    "concepto": "526",
+    "monto": "1544",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-03-02",
+    "referencia": "ByWGH",
+    "hotel_id": "353",
+    "concepto": "202",
+    "monto": "9247",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-02-08",
+    "referencia": "rDQEN",
+    "hotel_id": "764",
+    "concepto": "366",
+    "monto": "9803",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-06-24",
+    "referencia": "JReNE",
+    "hotel_id": "164",
+    "concepto": "573",
+    "monto": "7031",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-07-08",
+    "referencia": "xWfbo",
+    "hotel_id": "561",
+    "concepto": "562",
+    "monto": "7809",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2021-07-12",
+    "referencia": "Zwaij",
+    "hotel_id": "946",
+    "concepto": "698",
+    "monto": "3966",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-03-27",
+    "referencia": "nqJVi",
+    "hotel_id": "88",
+    "concepto": "978",
+    "monto": "1849",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-05-22",
+    "referencia": "VNnKF",
+    "hotel_id": "527",
+    "concepto": "313",
+    "monto": "8467",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-06-17",
+    "referencia": "jyAHb",
+    "hotel_id": "59",
+    "concepto": "831",
+    "monto": "2111",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-01-04",
+    "referencia": "ntQYd",
+    "hotel_id": "768",
+    "concepto": "687",
+    "monto": "4734",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-05-08",
+    "referencia": "wwWQN",
+    "hotel_id": "470",
+    "concepto": "572",
+    "monto": "6427",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-06-30",
+    "referencia": "kumyX",
+    "hotel_id": "740",
+    "concepto": "658",
+    "monto": "2997",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-01-17",
+    "referencia": "SElGN",
+    "hotel_id": "221",
+    "concepto": "101",
+    "monto": "8688",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-12-03",
+    "referencia": "RtWlL",
+    "hotel_id": "202",
+    "concepto": "258",
+    "monto": "8907",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-05-29",
+    "referencia": "uWhfN",
+    "hotel_id": "184",
+    "concepto": "154",
+    "monto": "4681",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-12-12",
+    "referencia": "NbHtM",
+    "hotel_id": "121",
+    "concepto": "741",
+    "monto": "5479",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-11-04",
+    "referencia": "JYOeE",
+    "hotel_id": "781",
+    "concepto": "858",
+    "monto": "8299",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-11-23",
+    "referencia": "CfzHE",
+    "hotel_id": "296",
+    "concepto": "512",
+    "monto": "2381",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-01-01",
+    "referencia": "MEECt",
+    "hotel_id": "534",
+    "concepto": "224",
+    "monto": "7671",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-09-24",
+    "referencia": "YgOEU",
+    "hotel_id": "672",
+    "concepto": "883",
+    "monto": "7468",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-03-09",
+    "referencia": "elNuC",
+    "hotel_id": "568",
+    "concepto": "986",
+    "monto": "3183",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-10-18",
+    "referencia": "VndFN",
+    "hotel_id": "211",
+    "concepto": "39",
+    "monto": "4748",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-11-07",
+    "referencia": "Dvzim",
+    "hotel_id": "545",
+    "concepto": "791",
+    "monto": "78",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2000-09-02",
+    "referencia": "iLuvc",
+    "hotel_id": "912",
+    "concepto": "218",
+    "monto": "8042",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-01-10",
+    "referencia": "bYKWZ",
+    "hotel_id": "732",
+    "concepto": "79",
+    "monto": "4836",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2010-10-03",
+    "referencia": "FRqoQ",
+    "hotel_id": "588",
+    "concepto": "386",
+    "monto": "7000",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2013-01-22",
+    "referencia": "LIGgE",
+    "hotel_id": "447",
+    "concepto": "995",
+    "monto": "5309",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-07-10",
+    "referencia": "Jqfxw",
+    "hotel_id": "749",
+    "concepto": "242",
+    "monto": "1734",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-12-03",
+    "referencia": "RRhHK",
+    "hotel_id": "363",
+    "concepto": "317",
+    "monto": "6482",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-04-09",
+    "referencia": "SQeSi",
+    "hotel_id": "910",
+    "concepto": "307",
+    "monto": "2944",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-02-16",
+    "referencia": "zHNjP",
+    "hotel_id": "249",
+    "concepto": "55",
+    "monto": "8504",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-12-09",
+    "referencia": "DcAZP",
+    "hotel_id": "403",
+    "concepto": "908",
+    "monto": "8711",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-03-26",
+    "referencia": "sJEhr",
+    "hotel_id": "804",
+    "concepto": "408",
+    "monto": "3041",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2013-04-19",
+    "referencia": "JsNKf",
+    "hotel_id": "450",
+    "concepto": "577",
+    "monto": "1095",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-05-15",
+    "referencia": "OSHpI",
+    "hotel_id": "446",
+    "concepto": "765",
+    "monto": "6727",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2018-09-10",
+    "referencia": "zVtkP",
+    "hotel_id": "762",
+    "concepto": "92",
+    "monto": "1736",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-03-24",
+    "referencia": "lFpZt",
+    "hotel_id": "630",
+    "concepto": "38",
+    "monto": "5293",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-05-28",
+    "referencia": "Iyflz",
+    "hotel_id": "777",
+    "concepto": "413",
+    "monto": "4145",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-12-19",
+    "referencia": "uIzvz",
+    "hotel_id": "266",
+    "concepto": "310",
+    "monto": "5936",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-04-28",
+    "referencia": "ICNLI",
+    "hotel_id": "776",
+    "concepto": "141",
+    "monto": "9154",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2021-08-27",
+    "referencia": "qyxFg",
+    "hotel_id": "114",
+    "concepto": "226",
+    "monto": "8794",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-03-23",
+    "referencia": "XTvbP",
+    "hotel_id": "630",
+    "concepto": "144",
+    "monto": "5172",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-09-06",
+    "referencia": "HYZpt",
+    "hotel_id": "15",
+    "concepto": "665",
+    "monto": "8814",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-12-28",
+    "referencia": "SsEVj",
+    "hotel_id": "467",
+    "concepto": "488",
+    "monto": "8727",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-03-03",
+    "referencia": "SxjkL",
+    "hotel_id": "917",
+    "concepto": "546",
+    "monto": "6497",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-05-28",
+    "referencia": "TdISq",
+    "hotel_id": "992",
+    "concepto": "938",
+    "monto": "3633",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-09-27",
+    "referencia": "aWlqu",
+    "hotel_id": "201",
+    "concepto": "402",
+    "monto": "8579",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-11-05",
+    "referencia": "ELIAC",
+    "hotel_id": "206",
+    "concepto": "316",
+    "monto": "9813",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-04-27",
+    "referencia": "FPkVA",
+    "hotel_id": "212",
+    "concepto": "232",
+    "monto": "6403",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2009-03-02",
+    "referencia": "dFEQW",
+    "hotel_id": "947",
+    "concepto": "515",
+    "monto": "4537",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-08-04",
+    "referencia": "YhjjE",
+    "hotel_id": "578",
+    "concepto": "470",
+    "monto": "3253",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-03-11",
+    "referencia": "ShiKK",
+    "hotel_id": "168",
+    "concepto": "282",
+    "monto": "4886",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-08-11",
+    "referencia": "oVCzj",
+    "hotel_id": "458",
+    "concepto": "202",
+    "monto": "7185",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2012-04-23",
+    "referencia": "jWscy",
+    "hotel_id": "87",
+    "concepto": "514",
+    "monto": "6066",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-03-22",
+    "referencia": "IswDS",
+    "hotel_id": "300",
+    "concepto": "3",
+    "monto": "8082",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-04-09",
+    "referencia": "KYbBP",
+    "hotel_id": "651",
+    "concepto": "510",
+    "monto": "2969",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2008-04-12",
+    "referencia": "ijtMv",
+    "hotel_id": "649",
+    "concepto": "37",
+    "monto": "8536",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-02-07",
+    "referencia": "leyss",
+    "hotel_id": "154",
+    "concepto": "396",
+    "monto": "711",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-11-12",
+    "referencia": "JCklo",
+    "hotel_id": "832",
+    "concepto": "713",
+    "monto": "5086",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-01-11",
+    "referencia": "JJRRF",
+    "hotel_id": "22",
+    "concepto": "241",
+    "monto": "8916",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-08-06",
+    "referencia": "HHwOz",
+    "hotel_id": "432",
+    "concepto": "710",
+    "monto": "8218",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2010-01-02",
+    "referencia": "casao",
+    "hotel_id": "317",
+    "concepto": "699",
+    "monto": "1119",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-02-03",
+    "referencia": "NzCGe",
+    "hotel_id": "999",
+    "concepto": "682",
+    "monto": "2642",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-03-16",
+    "referencia": "ykJHe",
+    "hotel_id": "642",
+    "concepto": "611",
+    "monto": "5459",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-12-16",
+    "referencia": "VrDEG",
+    "hotel_id": "68",
+    "concepto": "297",
+    "monto": "6481",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2006-03-26",
+    "referencia": "PZSZj",
+    "hotel_id": "987",
+    "concepto": "365",
+    "monto": "3777",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2016-09-29",
+    "referencia": "pegqb",
+    "hotel_id": "256",
+    "concepto": "532",
+    "monto": "915",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-02-01",
+    "referencia": "SVPHo",
+    "hotel_id": "435",
+    "concepto": "25",
+    "monto": "9948",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-04-26",
+    "referencia": "TZQNo",
+    "hotel_id": "522",
+    "concepto": "978",
+    "monto": "1846",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2013-09-22",
+    "referencia": "RaXCZ",
+    "hotel_id": "299",
+    "concepto": "19",
+    "monto": "7071",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-02-14",
+    "referencia": "HtQpj",
+    "hotel_id": "90",
+    "concepto": "326",
+    "monto": "6700",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-07-08",
+    "referencia": "PVBdg",
+    "hotel_id": "439",
+    "concepto": "265",
+    "monto": "1789",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-12-23",
+    "referencia": "VLKhn",
+    "hotel_id": "289",
+    "concepto": "815",
+    "monto": "6588",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-05-27",
+    "referencia": "LimZy",
+    "hotel_id": "908",
+    "concepto": "514",
+    "monto": "3785",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-10-31",
+    "referencia": "czknH",
+    "hotel_id": "299",
+    "concepto": "653",
+    "monto": "2774",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-05-16",
+    "referencia": "TOakJ",
+    "hotel_id": "110",
+    "concepto": "11",
+    "monto": "1797",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-12-14",
+    "referencia": "TDYXZ",
+    "hotel_id": "148",
+    "concepto": "834",
+    "monto": "1985",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-05-12",
+    "referencia": "TgajM",
+    "hotel_id": "776",
+    "concepto": "827",
+    "monto": "3393",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-01-09",
+    "referencia": "rhwsh",
+    "hotel_id": "234",
+    "concepto": "19",
+    "monto": "4193",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2024-04-29",
+    "referencia": "mzHdR",
+    "hotel_id": "461",
+    "concepto": "645",
+    "monto": "9817",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2004-11-18",
+    "referencia": "ruExh",
+    "hotel_id": "608",
+    "concepto": "989",
+    "monto": "3045",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2005-01-01",
+    "referencia": "NSgjU",
+    "hotel_id": "243",
+    "concepto": "912",
+    "monto": "411",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-09-30",
+    "referencia": "UNiJg",
+    "hotel_id": "470",
+    "concepto": "465",
+    "monto": "7792",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-01-19",
+    "referencia": "brNYB",
+    "hotel_id": "351",
+    "concepto": "236",
+    "monto": "176",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-12-11",
+    "referencia": "mzSoF",
+    "hotel_id": "647",
+    "concepto": "198",
+    "monto": "2431",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-06-28",
+    "referencia": "ISIMx",
+    "hotel_id": "784",
+    "concepto": "74",
+    "monto": "9449",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2000-02-02",
+    "referencia": "dfTLG",
+    "hotel_id": "767",
+    "concepto": "747",
+    "monto": "235",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-12-19",
+    "referencia": "ppbza",
+    "hotel_id": "463",
+    "concepto": "812",
+    "monto": "5159",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2018-01-27",
+    "referencia": "QCWmW",
+    "hotel_id": "134",
+    "concepto": "788",
+    "monto": "4664",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-05-08",
+    "referencia": "HEOWn",
+    "hotel_id": "9",
+    "concepto": "687",
+    "monto": "4838",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-05-05",
+    "referencia": "VJdzj",
+    "hotel_id": "746",
+    "concepto": "970",
+    "monto": "5550",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2013-01-14",
+    "referencia": "fdJIH",
+    "hotel_id": "238",
+    "concepto": "102",
+    "monto": "3580",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2012-04-11",
+    "referencia": "grGRr",
+    "hotel_id": "871",
+    "concepto": "499",
+    "monto": "8766",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2001-06-07",
+    "referencia": "QOqJB",
+    "hotel_id": "401",
+    "concepto": "180",
+    "monto": "81",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-08-30",
+    "referencia": "uKSmh",
+    "hotel_id": "694",
+    "concepto": "282",
+    "monto": "3375",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-08-09",
+    "referencia": "qOcQo",
+    "hotel_id": "543",
+    "concepto": "114",
+    "monto": "1050",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2016-10-28",
+    "referencia": "Vifjq",
+    "hotel_id": "349",
+    "concepto": "998",
+    "monto": "2579",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-03-01",
+    "referencia": "gHEQd",
+    "hotel_id": "936",
+    "concepto": "573",
+    "monto": "461",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-02-22",
+    "referencia": "SyBjs",
+    "hotel_id": "227",
+    "concepto": "247",
+    "monto": "838",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-03-19",
+    "referencia": "idZwU",
+    "hotel_id": "215",
+    "concepto": "359",
+    "monto": "9258",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-11-27",
+    "referencia": "tKHlR",
+    "hotel_id": "412",
+    "concepto": "129",
+    "monto": "6084",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-03-19",
+    "referencia": "fVKnm",
+    "hotel_id": "299",
+    "concepto": "694",
+    "monto": "6171",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-04-12",
+    "referencia": "dyFqm",
+    "hotel_id": "263",
+    "concepto": "56",
+    "monto": "9179",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-11-25",
+    "referencia": "rWrSg",
+    "hotel_id": "150",
+    "concepto": "472",
+    "monto": "6999",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2013-05-20",
+    "referencia": "ErjES",
+    "hotel_id": "417",
+    "concepto": "345",
+    "monto": "7533",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-09-06",
+    "referencia": "Versh",
+    "hotel_id": "982",
+    "concepto": "602",
+    "monto": "4394",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-10-30",
+    "referencia": "xeDst",
+    "hotel_id": "885",
+    "concepto": "69",
+    "monto": "1733",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-10-02",
+    "referencia": "RhGVz",
+    "hotel_id": "865",
+    "concepto": "590",
+    "monto": "9617",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-02-07",
+    "referencia": "XWVUi",
+    "hotel_id": "169",
+    "concepto": "692",
+    "monto": "6654",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-01-25",
+    "referencia": "zuXwH",
+    "hotel_id": "173",
+    "concepto": "19",
+    "monto": "3277",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2019-11-15",
+    "referencia": "VUNnr",
+    "hotel_id": "295",
+    "concepto": "450",
+    "monto": "6169",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-10-25",
+    "referencia": "mNjec",
+    "hotel_id": "68",
+    "concepto": "443",
+    "monto": "8064",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-08-07",
+    "referencia": "CDAeF",
+    "hotel_id": "990",
+    "concepto": "530",
+    "monto": "6957",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-12-14",
+    "referencia": "fnCWe",
+    "hotel_id": "575",
+    "concepto": "404",
+    "monto": "2783",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-11-28",
+    "referencia": "yoqHs",
+    "hotel_id": "999",
+    "concepto": "878",
+    "monto": "4275",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-12-17",
+    "referencia": "lhyND",
+    "hotel_id": "32",
+    "concepto": "728",
+    "monto": "2445",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-10-24",
+    "referencia": "XndKL",
+    "hotel_id": "742",
+    "concepto": "762",
+    "monto": "3440",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-03-22",
+    "referencia": "LwXWE",
+    "hotel_id": "417",
+    "concepto": "420",
+    "monto": "8673",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2004-06-20",
+    "referencia": "AVsdE",
+    "hotel_id": "526",
+    "concepto": "218",
+    "monto": "4128",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-12-25",
+    "referencia": "NJzCu",
+    "hotel_id": "587",
+    "concepto": "260",
+    "monto": "9551",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-03-09",
+    "referencia": "mUszy",
+    "hotel_id": "956",
+    "concepto": "707",
+    "monto": "4343",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2015-11-15",
+    "referencia": "wlzFq",
+    "hotel_id": "928",
+    "concepto": "934",
+    "monto": "7531",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-03-25",
+    "referencia": "jHoXV",
+    "hotel_id": "986",
+    "concepto": "563",
+    "monto": "3714",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2001-08-12",
+    "referencia": "FAeZj",
+    "hotel_id": "694",
+    "concepto": "887",
+    "monto": "8095",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-09-02",
+    "referencia": "YaLOk",
+    "hotel_id": "109",
+    "concepto": "964",
+    "monto": "385",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2005-06-07",
+    "referencia": "pQhKB",
+    "hotel_id": "361",
+    "concepto": "368",
+    "monto": "8982",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-09-19",
+    "referencia": "YeheB",
+    "hotel_id": "728",
+    "concepto": "487",
+    "monto": "4995",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-12-15",
+    "referencia": "otlFr",
+    "hotel_id": "83",
+    "concepto": "874",
+    "monto": "5241",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-05-25",
+    "referencia": "NjRiU",
+    "hotel_id": "852",
+    "concepto": "35",
+    "monto": "7950",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2003-03-29",
+    "referencia": "zdOTl",
+    "hotel_id": "378",
+    "concepto": "994",
+    "monto": "8538",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2024-04-30",
+    "referencia": "rdGqz",
+    "hotel_id": "176",
+    "concepto": "159",
+    "monto": "6167",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2011-06-30",
+    "referencia": "AopFX",
+    "hotel_id": "513",
+    "concepto": "818",
+    "monto": "6982",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2007-05-01",
+    "referencia": "KfqrN",
+    "hotel_id": "817",
+    "concepto": "155",
+    "monto": "3415",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2014-06-22",
+    "referencia": "PQBZU",
+    "hotel_id": "603",
+    "concepto": "110",
+    "monto": "4114",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2021-03-29",
+    "referencia": "BbotV",
+    "hotel_id": "712",
+    "concepto": "395",
+    "monto": "9319",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2017-05-15",
+    "referencia": "Hfecq",
+    "hotel_id": "101",
+    "concepto": "947",
+    "monto": "1337",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2007-08-07",
+    "referencia": "uHzRL",
+    "hotel_id": "923",
+    "concepto": "557",
+    "monto": "7763",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2002-01-07",
+    "referencia": "oVOtX",
+    "hotel_id": "988",
+    "concepto": "173",
+    "monto": "3007",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2011-04-19",
+    "referencia": "WwTWK",
+    "hotel_id": "155",
+    "concepto": "553",
+    "monto": "3262",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2006-04-24",
+    "referencia": "wkOuT",
+    "hotel_id": "830",
+    "concepto": "487",
+    "monto": "5937",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2009-05-18",
+    "referencia": "UFWqv",
+    "hotel_id": "126",
+    "concepto": "601",
+    "monto": "3211",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2020-06-28",
+    "referencia": "PdIGY",
+    "hotel_id": "709",
+    "concepto": "746",
+    "monto": "4456",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2017-01-01",
+    "referencia": "vYKem",
+    "hotel_id": "457",
+    "concepto": "652",
+    "monto": "2995",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2020-11-13",
+    "referencia": "nkTFB",
+    "hotel_id": "57",
+    "concepto": "770",
+    "monto": "8643",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2003-06-09",
+    "referencia": "DgqdR",
+    "hotel_id": "143",
+    "concepto": "254",
+    "monto": "5821",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2002-09-24",
+    "referencia": "gOKmG",
+    "hotel_id": "927",
+    "concepto": "959",
+    "monto": "8946",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-10-12",
+    "referencia": "WLhzI",
+    "hotel_id": "100",
+    "concepto": "758",
+    "monto": "7441",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2019-07-08",
+    "referencia": "VLaTm",
+    "hotel_id": "529",
+    "concepto": "252",
+    "monto": "4852",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2000-03-10",
+    "referencia": "NAPdH",
+    "hotel_id": "944",
+    "concepto": "761",
+    "monto": "6458",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2022-03-16",
+    "referencia": "ckoHo",
+    "hotel_id": "269",
+    "concepto": "14",
+    "monto": "4178",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2022-02-16",
+    "referencia": "FpdDr",
+    "hotel_id": "305",
+    "concepto": "321",
+    "monto": "6784",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2014-09-25",
+    "referencia": "tVpwI",
+    "hotel_id": "940",
+    "concepto": "894",
+    "monto": "1598",
+    "pagado": "Si"
+  },
+  {
+    "fecha": "2015-11-11",
+    "referencia": "YgevM",
+    "hotel_id": "540",
+    "concepto": "308",
+    "monto": "379",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2023-11-18",
+    "referencia": "gGlsn",
+    "hotel_id": "551",
+    "concepto": "360",
+    "monto": "8532",
+    "pagado": "No"
+  },
+  {
+    "fecha": "2008-04-19",
+    "referencia": "sxsVF",
+    "hotel_id": "808",
+    "concepto": "744",
+    "monto": "4987",
+    "pagado": "No"
+  }
+]
