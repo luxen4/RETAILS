@@ -51,29 +51,13 @@ Conectarse con usuario y contraseña
 ### Postgress ###
 #################
     # psql -U postgres
-    # create database retail_db;      # create database warehouse_retail_db;        # create database primord_db;
-    # \c retail_db                    # \c warehouse_retail_db                      # \c primord_db
+    # create database retail_db;      
+    # \c retail_db                   
     # \l                                -> para ver las bases de datos
     # \dt                               -> para ver las tablas
-    # DROP DATABASE mi_base_de_datos;
+    # DROP DATABASE retail_db;
     # \q o \quit
     # DROP TABLE IF EXISTS stores;
-
-Pendiente:
-psql -h localhost -p 9999 -U primOrd -d PrimOrd
-CREATE DATABASE PrimOrd;
-
-Puerto BBDD: 9999
-● Nombre BBDD: PrimOrd
-● Nombre usuario: primOrd
-● Password usuario: bdaPrimOrd
-
-
-
-#Crear una base de datos:
-    psql -h localhost -p 9999 -U primOrd -d PrimOrd -W    # para la contraseña
-
-
 
 
 

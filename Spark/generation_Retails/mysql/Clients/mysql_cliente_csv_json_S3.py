@@ -56,10 +56,10 @@ try:
     ruta_salida = "s3a://my-local-bucket/mysqlCliente_csv"
     df = df.write.csv(ruta_salida, mode="overwrite")
     
-    # Leerel csv
+    # Leer el csv
     bucket_name = 'my-local-bucket' 
     file_name='mysqlCliente_csv'
-    df_origi nal = spark.read.csv(f"s3a://{bucket_name}/{file_name}", header=True, inferSchema=True)
+    df_original = spark.read.csv(f"s3a://{bucket_name}/{file_name}", header=True, inferSchema=True)
     df_original.show()
 
     
@@ -70,7 +70,7 @@ try:
     
     
     
-    # Leer el archivo
+    # Leer el json
     bucket_name = 'my-local-bucket'
     file_name='mysqlCliente_json'
     df_original = spark.read.json(f"s3a://{bucket_name}/{file_name}")
